@@ -1,0 +1,421 @@
+LANGUAGE,简体中文,ENGLISH,日本語,Deutsch,Français,Español,Русский язык,ภาษาไทย,한국어,اللغة العربية,Italiano,português
+ADVANCE,进阶,ADVANCED,アドバンス,fortgeschritten,avancé,avanzado,продвинутый,ขั้นสูง,고급,متقدم,avanzato,avançado
+AGE,年龄,AGE,年齢,Alter,Âge,Edad,Возраст,อายุ,나이,عمر,Età,Idade
+AGGRESSIVE,???,???,???,???,???,???,???,???,???,???,???,???
+ALL,无限制,ALL,すべて,Alle,Tout,Todo,Все,ทั้งหมด,모두,الكل,Tutti,Todos
+BRONZE,铜,BRONZE,ブロンズ,Bronze,Bronze,Bronce,Бронза,ทองสัมฤทธิ์,청동,برونز,Bronzo,Bronze
+BUTTONCONFIRM,确认,CONFIRM,確認,Bestätigen,Confirmer,Confirmar,Подтвердить,ยืนยัน,확인,تأكيد,Conferma,Confirmar
+BUTTONDIALOGUESPEED,对话文字速度,DIALOGUE SPEED,対話テキストの速度,Dialoggeschwindigkeit,Vitesse du dialogue,Velocidad del diálogo,Скорость диалога,ความเร็วของข้อความในบทสนทนา,대화 속도,سرعة النص في الحوار,Velocità del dialogo,Velocidade do diálogo
+BUTTONEXITCONFIRM,是否退出游戏,RETURN TO DESKTOP,ゲームを終了しますか,Beenden Sie das Spiel,Quitter le jeu,¿Desea salir del juego?,Выйти из игры,คุณต้องการออกจากเกมหรือไม่,게임을 종료하시겠습니까?,هل تريد الخروج من اللعبة؟,Sicuro di voler uscire dal gioco?,Deseja sair do jogo?
+BUTTONFULLSCREEN,全屏模式,FULLSCREEN MODE,フルスクリーンモード,Vollbildmodus,Mode plein écran,Modo de pantalla completa,Полноэкранный режим,โหมดเต็มจอ,전체 화면 모드,وضع ملء الشاشة,Modalità schermo intero,Modo de tela cheia
+BUTTONLANGUAGE,语言,LANGUAGE,言語,Sprache,Langue,Idioma,Язык,ภาษา,언어,اللغة,Lingua,Idioma
+BUTTONMESSAGESPEED,信息文字速度,MESSAGE SPEED,メッセージテキストの速度,Nachrichtengeschwindigkeit,Vitesse des messages,Velocidad de mensajes,Скорость сообщений,ความเร็วของข้อความ,메시지 속도,سرعة الرسائل,Velocità dei messaggi,Velocidade das mensagens
+BUTTONMUSIC,背景音乐音量,MUSIC VOLUME,背景音楽の音量,Hintergrundmusik Lautstärke,Volume de la musique, Volumen de música,Громкость музыки,ระดับเสียงดนตรี,음악 볼륨,مستوى الصوت الموسيقى,Volume della musica,Volume da música
+BUTTONQUIT,退出,QUIT,終了,Beenden,Quitter,Salir,Выйти,ออก,끝내기,خروج,Uscita,Sair
+BUTTONQUITCONFIRM,退出时未保存的进度将会丢失,UNSAVED PROGRESS WILL BE LOST,終了時に保存されていない進行状況が失われます,Nicht gespeicherter Fortschritt geht verloren,La progression non sauvegardée sera perdue,El progreso no guardado se perderá,Несохраненный прогресс будет утерян,ความคืบหน้าที่ไม่ได้บันทึกจะหายไป,저장되지 않은 진행 상황이 손실됩니다,سيتم فقدان التقدم الذي لم يتم حفظه,Il progresso non salvato verrà perso,O progresso não salvo será perdido
+BUTTONREFRESHRATE,刷新率,REFRESH RATE,リフレッシュレート,Aktualisierungsrate,Taux de rafraîchissement,Frecuencia de actualización,Частота обновления,อัตราการรีเฟรช,화면 갱신율,معدل التحديث,Frequenza di aggiornamento,Taxa de atualização
+BUTTONRESOLUTION,游戏分辨率,GAME RESOLUTION,ゲームの解像度,Spielauflösung,Résolution de jeu,Resolución del juego,Разрешение игры,ความละเอียดของเกม,게임 해상도,دقة اللعبة,Risoluzione del gioco,Resolução do jogo
+BUTTONSCREENSIZE,窗口大小,SCREEN SIZE,画面サイズ,Bildschirmgröße,Taille de l'écran,Tamaño de pantalla,Размер экрана,ขนาดหน้าจอ,화면 크기,حجم الشاشة,Dimensioni dello schermo,Tamanho da tela
+BUTTONSFX,SFX 音效,SFX,音効,SFX,Tonalités sonores,Efectos de sonido,Звуковые эффекты,เอฟเฟ็กต์เสียง,SFX,تأثيرات الصوت,Effetti sonori,Efeitos sonoros
+BUTTONSOUND,音效音量,SOUND VOLUME,サウンドの音量,Tonstärke,Louder du son,Volumen de sonido,Громкость звука,ระดับเสียงเสียง,소리 볼륨,مستوى الصوت الصوتي,Volume del suono,Volume de som
+BUTTONSPEECH,语音音量,DIALOGUE VOLUME,音声の音量,Sprachlautstärke,Volume de la voix,Volumen de diálogo,Громкость речи,ระดับเสียงของเสียงพูด,대화 볼륨,مستوى الصوت للحوار,Volume del dialogo,Volume de diálogo
+cc_hair,变装:发色,OUTFIT:HAIR COLOR,変装:髪の色,AUSSEHEN:HAARFARBE,TENUE:COULEUR DES CHEVEUX,ATUENDO:COLOR DE PELO,КОСТЮМ:ЦВЕТ ВОЛОС,เครื่องแต่งกาย:สีผม,의상:머리 색상,زي:لون الشعر,ABBIGLIAMENTO:COLORE DEI CAPELLI,VESTUÁRIO:COR DO CABELO
+CHANGED,变成了,HAS CHANGED TO,変更されました,hat sich geändert zu,a changé en,ha cambiado a,изменился на,เปลี่ยนเป็น,다음으로 변경되었습니다,تغير إلى,è cambiato in,alterou para
+cp_bo,变装:上衣,OUTFIT:TORSO,変装:トップス,VERKLEIDUNG:OBERTEIL,TENUE:TORSO,ATUENDO:TORSO,КОСТЮМ:ТОРСО,เครื่องแต่งกาย:ลำตัว,의상:상의,زي:الجزء العلوي,ABBIGLIAMENTO:TORSO,VESTUÁRIO:TORSO
+cp_ha,变装:前发,OUTFIT:FOREHAIR,変装:前髪,VERKLEIDUNG:VORDERHAAR,TENUE:FRONT DE CHEVEUX,ATUENDO:PELO FRONTAL,КОСТЮМ:ПЕРЕДНИЕ ВОЛОСЫ,เครื่องแต่งกาย:ผมด้านหน้า,의상:앞머리,زي:الشعر الأمامي,ABBIGLIAMENTO:CAPPELLI ANTERIORI,VESTUÁRIO:FRONTAL
+cp_ou,变装:套装,OUTFIT:SUIT,変装:スーツ,VERKLEIDUNG:ANZUG,TENUE:COMBINAISON,ATUENDO:TRAJE,КОСТЮМ:КОСТЮМ,เครื่องแต่งกาย:สูท,의상:정장,زي:بدلة,ABBIGLIAMENTO:COMPLETO,VESTUÁRIO:TERNO
+cp_pa,变装:裤子,OUTFIT:PANTS,変装:パンツ,VERKLEIDUNG:HOSE,TENUE:PANTALON,ATUENDO:PANTALONES,КОСТЮМ:БРЮКИ,เครื่องแต่งกาย:กางเกง,의상:바지,زي:بنطلون,ABBIGLIAMENTO:PANTALONI,VESTUÁRIO:CALÇAS
+cp_rh,变装:后发,OUTFIT:HAIR,変装:髪の毛,VERKLEIDUNG:HAARE,TENUE:CHEVEUX,ATUENDO:PELO,КОСТЮМ:ВОЛОСЫ,เครื่องแต่งกาย:ผม,의상:머리,زي:شعر,ABBIGLIAMENTO:CAPELLI,VESTUÁRIO:CABELO
+cp_sh,变装:鞋,OUTFIT:SHOES,変装:シューズ,VERKLEIDUNG:SCHUHE,TENUE:CHAUSSURES,ATUENDO:ZAPATOS,КОСТЮМ:ОБУВЬ,เครื่องแต่งกาย:รองเท้า,의상:신발,زي:أحذية,ABBIGLIAMENTO:SCARPE,VESTUÁRIO:SAPATOS
+cp_sk,变装:裙子,OUTFIT:SKIRT,変装:スカート,VERKLEIDUNG:ROCK,TENUE:JUPE,ATUENDO:FALDA,КОСТЮМ:ЮБКА,เครื่องแต่งกาย:กระโปรง,의상:치마,زي:تنورة,ABBIGLIAMENTO:GONNA,VESTUÁRIO:SAIA
+cp_we,变装:武器,OUTFIT:WEAPON,変装:武器,VERKLEIDUNG:WAFFE,TENUE:ARME,ATUENDO:ARMA,КОСТЮМ:ОРУЖИЕ,เครื่องแต่งกาย:อาวุธ,의상:무기,زي:سلاح,ABBIGLIAMENTO:ARMA,VESTUÁRIO:ARMA
+CUSTOMIZED,???,???,???,???,???,???,???,???,???,???,???,???
+DEFENSIVE,???,???,???,???,???,???,???,???,???,???,???,???
+DROPPED,降低了,HAS DROPPED,低下しました,ist gesunken,a chuté,a disminuido,снизился,ลดลง,하락했습니다,انخفض,è sceso,caiu
+ENTRYDISABLE,关闭,DISABLE,無効,Deaktivieren,Désactiver,Desactivar,Отключить,ปิดใช้งาน,비활성화,تعطيل,Disabilita,Desativar
+ENTRYENABLE,开启,ENABLE,有効にする,Aktivieren,Activer,Activar,Включить,เปิดใช้งาน,활성화,تمكين,Abilita,Ativar
+ENTRYFULLSCREEN,全屏,FULLSCREEN,フルスクリーン,Vollbild,Plein écran,Pantalla completa,Полноэкранный,เต็มหน้าจอ,전체 화면,ملء الشاشة,Schermo intero,Tela cheia
+ENTRYVOLUME,音量大小,VOLUME,音量レベル,Lautstärke,Niveau de volume,Nivel de volumen,Уровень громкости,ระดับเสียง,볼륨 수준,مستوى الصوت,Livello del volume,Nível de volume
+ENTRYWINDOW,窗口,WINDOW,ウィンドウ,Fenster,Fenêtre,Ventana,Окно,หน้าต่าง,창,نافذة,Finestra,Janela
+EQ_SLOT0,武器,WEAPON,武器,WAFFE,ARME,ARMA,ОРУЖИЕ,อาวุธ,무기,سلاح,ARMA,ARMA
+EQ_SLOT1,防具,ARMOR,防具,RÜSTUNG,ARMURE,ARMADURA,БРОНЯ,เกราะ,방어구,درع,ARMATURA,ARMADURA
+EQ_SLOT2,自定义装备栏2,Custom Equipment Slot 2,カスタム装備スロット2,Angepasster Ausrüstungsplatz 2,Emplacement d'équipement personnalisé 2, Ranura de equipo personalizado 2,Пользовательский слот для экипировки 2,สล็อตอุปกรณ์ที่กำหนดเอง 2,사용자 정의 장비 슬롯 2,فتحة معدات مخصصة 2,Slot attrezzatura personalizzata 2,Slot de Equipamento Personalizado 2
+EQ_SLOT3,自定义装备栏3,Custom Equipment Slot 3,カスタム装備スロット3,Angepasster Ausrüstungsplatz 3,Emplacement d'équipement personnalisé 3, Ranura de equipo personalizado 3,Пользовательский слот для экипировки 3,สล็อตอุปกรณ์ที่กำหนดเอง 3,사용자 정의 장비 슬롯 3,فتحة معدات مخصصة 3,Slot attrezzatura personalizzata 3,Slot de Equipamento Personalizado 3
+EQ_SLOT4,自定义装备栏4,Custom Equipment Slot 4,カスタム装備スロット4,Angepasster Ausrüstungsplatz 4,Emplacement d'équipement personnalisé 4, Ranura de equipo personalizado 4,Пользовательский слот для экипировки 4,สล็อตอุปกรณ์ที่กำหนดเอง 4,사용자 정의 장비 슬롯 4,فتحة معدات مخصصة 4,Slot attrezzatura personalizzata 4,Slot de Equipamento Personalizado 4
+EQ_SLOT5,自定义装备栏5,Custom Equipment Slot 5,カスタム装備スロット5,Angepasster Ausrüstungsplatz 5,Emplacement d'équipement personnalisé 5, Ranura de equipo personalizado 5,Пользовательский слот для экипировки 5,สล็อตอุปกรณ์ที่กำหนดเอง 5,사용자 정의 장비 슬롯 5,فتحة معدات مخصصة 5,Slot attrezzatura personalizzata 5,Slot de Equipamento Personalizado 5
+EQ_SLOT6,自定义装备栏6,Custom Equipment Slot 6,カスタム装備スロット6,Angepasster Ausrüstungsplatz 6,Emplacement d'équipement personnalisé 6, Ranura de equipo personalizado 6,Пользовательский слот для экипировки 6,สล็อตอุปกรณ์ที่กำหนดเอง 6,사용자 정의 장비 슬롯 6,فتحة معدات مخصصة 6,Slot attrezzatura personalizzata 6,Slot de Equipamento Personalizado 6
+EQ_SLOT7,自定义装备栏7,Custom Equipment Slot 7,カスタム装備スロット7,Angepasster Ausrüstungsplatz 7,Emplacement d'équipement personnalisé 7, Ranura de equipo personalizado 7,Пользовательский слот для экипировки 7,สล็อตอุปกรณ์ที่กำหนดเอง 7,사용자 정의 장비 슬롯 7,فتحة معدات مخصصة 7,Slot attrezzatura personalizzata 7,Slot de Equipamento Personalizado 7
+EQ_SLOT8,自定义装备栏8,Custom Equipment Slot 8,カスタム装備スロット8,Angepasster Ausrüstungsplatz 8,Emplacement d'équipement personnalisé 8, Ranura de equipo personalizado 8,Пользовательский слот для экипировки 8,สล็อตอุปกรณ์ที่กำหนดเอง 8,사용자 정의 장비 슬롯 8,فتحة معدات مخصصة 8,Slot attrezzatura personalizzata 8,Slot de Equipamento Personalizado 8
+EQ_SLOT9,自定义装备栏9,Custom Equipment Slot 9,カスタム装備スロット9,Angepasster Ausrüstungsplatz 9,Emplacement d'équipement personnalisé 9, Ranura de equipo personalizado 9,Пользовательский слот для экипировки 9,สล็อตอุปกรณ์ที่กำหนดเอง 9,사용자 정의 장비 슬롯 9,فتحة معدات مخصصة 9,Slot attrezzatura personalizzata 9,Slot de Equipamento Personalizado 9
+EQUIPMENT,装备,EQUIPMENT,装備,Ausrüstung,Équipement,Equipo,Оборудование,อุปกรณ์,장비,تجهيزات,Attrezzatura,Equipamento
+EXP,经验值,EXP,経験値,EXP,EXP,EXP,Опыт,EXP,경험치,خبرة,EXP,EXP
+FAME,声望,FAME,名声,RENOMMEE,RÉPUTATION,FAMA,СЛАВА,ชื่อเสียง,명성,شهرة,FAMA,FAMA
+FEMALE,女性,FEMALE,女性,WEIBLICH,FÉMININ,FEMENINO,ЖЕНСКИЙ,หญิง,여성,أنثى,FEMMINILE,FEMININO
+GAMEHOUR,小时,HOUR,ゲーム時間,Stunde,HEURE,HORA,ЧАС,ชั่วโมงที่ใช้ในเกม,시간,ساعة,ORA,HORA
+GAMEOVER,游戏结束,GAME OVER,ゲームオーバー,SPIEL VORBEI,FIN DU JEU,FIN DEL JUEGO,КОНЕЦ ИГРЫ,จบเกม,게임 오버,نهاية اللعبة,FINE GIOCO,FIM DE JOGO
+GAMESAVE,存档次数,SAVE TIMES,ゲームセーブ,Speicherzeiten,ENREGISTREMENTS,VECES GUARDADAS,ВРЕМЯ СОХРАНЕНИЯ,ครั้งการบันทึก,게임 저장,مرات الحفظ,SALVA GIOCO,VEZES SALVAS
+GAMESEC,秒,SECONDS,ゲーム秒,SEKUNDEN,SECONDES,SEGUNDOS,СЕКУНДЫ,วินาที,초,ثواني,SECONDI,SEGUNDOS
+GAMETEAM,队伍成员,TEAM MEMBERS,ゲームチーム,TEAMMITGLIEDER,MEMBRES D'ÉQUIPE,MIEMBROS DEL EQUIPO,КОМАНДА,สมาชิกทีม,팀 멤버,أعضاء الفريق,MEMBRI DEL TEAM,MEMBROS DA EQUIPE
+GAMETIME,游戏时长,GAME TIME,ゲームタイム,SPIELDAUER,DURÉE DU JEU,TIEMPO DE JUEGO,ВРЕМЯ ИГРЫ,เวลาเกม,게임 시간,وقت اللعب,TEMPO DI GIOCO,TEMPO DE JOGO
+GENERAL,通常,GENERAL,一般,ALLGEMEIN,GÉNÉRAL,GENERAL,ОБЩИЙ,ทั่วไป,일반,عام,GENERALE,GERAL
+GOLD,金,GOLD,ゴールド,Gold,OR,ORO,ЗОЛОТО,ทอง,금,ذهب,ORO,OURO
+HP,生命,HP,HP,Lebenspunkte,points de vie,Puntos de vida,Здоровье,ความสามารถในการหายใจ,생명력,نقاط الصحة,Punti vita,Pontos de Vida
+HPMAX,最大生命,MAX HP,最大生命,MAX HP,MAX HP,MAX HP,МАКС ЗДОРОВЬЕ,MAX HP,HP สูงสุด,최대 생명력,الحد الأقصى لنقاط الصحة,HP MASSIMO,HP MÁXIMO
+ITEM_DURATION,持续时间,DURATION,アイテムの持続時間,DAUER,DURÉE,DURACIÓN,ДЛИТЕЛЬНОСТЬ,ระยะเวลาของไอเทม,아이템 지속 시간,مدة العنصر,DURATA,TEMPO DE DURAÇÃO
+ITEM_EFFECT0,无效果,NO EFFECT,アイテム効果なし,KEINE WIRKUNG,AUCUN EFFET,SIN EFECTO,НЕТ ЭФФЕКТА,ไม่มีผล,효과 없음,بدون تأثير,NESSUN EFFETTO,SEM EFEITO
+ITEM_EFFECT1,复活,REVIVE,アイテム効果：蘇生,ITEM WIRKUNG: BELEBEN,EFFET D'OBJET : REVIVRE,EFECTO DEL ÍTEM: REVIVIR,ЭФФЕКТ ПРЕДМЕТА: ВОСКРЕШЕНИЕ,ผลของไอเทม: ฟื้นคืนชีวิต,아이템 효과: 부활,تأثير العنصر: إحياء,EFFETTO DELL'OGGETTO: RIPRISTINA,EFECTO DO ITEM: REVIVER
+ITEM_EFFECT10,受伤解除,WOUND RECOVER,アイテム効果：傷回復,ITEM WIRKUNG: WUNDE WIEDERHERSTELLEN,EFFET D'OBJET : GUÉRISON DES BLESSURES,EFECTO DEL ÍTEM: RECUPERAR HERIDAS,ЭФФЕКТ ПРЕДМЕТА: ВОССТАНОВЛЕНИЕ РАН,ผลของไอเทม: ฟื้นคืนบาดแผล,아이템 효과: 상처 회복,تأثير العنصر: استعادة الجروح,EFFETTO DELL'OGGETTO: RECUPERO FERITE,EFECTO DO ITEM: RECUPERAR FERIDAS
+ITEM_EFFECT11,中毒,POISON,アイテム効果：毒,ITEM WIRKUNG: VERGIFTUNG,EFFET D'OBJET : POISON,EFECTO DEL ÍTEM: VENENO,ЭФФЕКТ ПРЕДМЕТА: ОТРАВЛЕНИЕ,ผลของไอเทม: พิษ,아이템 효과: 중독,تأثير العنصر: سم,EFFETTO DELL'OGGETTO: VELENO,EFECTO DO ITEM: VENENO
+ITEM_EFFECT12,中毒解除,POISON RECOVER,アイテム効果：毒解消,ITEM WIRKUNG: GIFT HEILEN,EFFET D'OBJET : GUÉRISON DU POISON,EFECTO DEL ÍTEM: RECUPERAR VENENO,ЭФФЕКТ ПРЕДМЕТА: ВОССТАНОВЛЕНИЕ ОТРАВЛЕНИЯ,ผลของไอเทม: ฟื้นคืนพิษ,아이템 효과: 중독 해제,تأثير العنصر: استعادة السم,EFFETTO DELL'OGGETTO: RIPRISTINA VELENO,EFECTO DO ITEM: RECUPERAR VENENO
+ITEM_EFFECT13,失明,BLIND,アイテム効果：盲目,ITEM WIRKUNG: BLINDHEIT,EFFET D'OBJET : AVEUGLEMENT,EFECTO DEL ÍTEM: CEGUERA,ЭФФЕКТ ПРЕДМЕТА: СЛЕПОТА,ผลของไอเทม: สายตาบอด,아이템 효과: 실명,تأثير العنصر: العمى,EFFETTO DELL'OGGETTO: CECITÀ,EFECTO DO ITEM: CEGUEIRA
+ITEM_EFFECT14,失明解除,BLIND RECOVER,アイテム効果：盲目解消,ITEM WIRKUNG: BLINDHEIT HEILEN,EFFET D'OBJET : GUÉRISON DE L'AVEUGLEMENT,EFECTO DEL ÍTEM: RECUPERAR CEGUERA,ЭФФЕКТ ПРЕДМЕТА: ВОССТАНОВЛЕНИЕ СЛЕПОТЫ,ผลของไอเทม: ฟื้นคืนการสายตา,아이템 효과: 실명 해제,تأثير العنصر: استعادة العمى,EFFETTO DELL'OGGETTO: RIPRISTINA CECITÀ,EFECTO DO ITEM: RECUPERAR CEGUEIRA
+ITEM_EFFECT15,全部解除,ALL RECOVER,アイテム効果：すべて解消,ITEM WIRKUNG: ALLES HEILEN,EFFET D'OBJET : TOUT GUÉRIR,EFECTO DEL ÍTEM: RECUPERAR TODO,ЭФФЕКТ ПРЕДМЕТА: ВОССТАНОВЛЕНИЕ ВСЕГО,ผลของไอเทม: ฟื้นคืนทั้งหมด,아이템 효과: 모두 해제,تأثير العنصر: استعادة الكل,EFFETTO DELL'OGGETTO: RIPRISTINA TUTTO,EFECTO DO ITEM: RECUPERAR TUDO
+ITEM_EFFECT2,即死,DEATH,アイテム効果：即死,ITEM WIRKUNG: TOD,EFFET D'OBJET : MORT,EFECTO DEL ÍTEM: MUERTE,ЭФФЕКТ ПРЕДМЕТА: СМЕРТЬ,ผลของไอเทม: ตาย,아이템 효과: 사망,تأثير العنصر: الموت,EFFETTO DELL'OGGETTO: MORTE,EFECTO DO ITEM: MORTE
+ITEM_EFFECT3,晕眩,STUN,アイテム効果：スタン,ITEM WIRKUNG: BETÄUBEN,EFFET D'OBJET : ÉTOURDIR,EFECTO DEL ÍTEM: ATURDIR,ЭФФЕКТ ПРЕДМЕТА: ОГЛУШЕНИЕ,ผลของไอเทม: ชะลอ,아이템 효과: 기절,تأثير العنصر: إصابة,EFFETTO DELL'OGGETTO: STORDIMENTO,EFECTO DO ITEM: ATORDOAR
+ITEM_EFFECT4,晕眩解除,STUN RECOVER,アイテム効果：スタン解消,ITEM WIRKUNG: BETÄUBUNG HEILEN,EFFET D'OBJET : GUÉRISON D'ÉTOURDISSEMENT,EFECTO DEL ÍTEM: RECUPERAR ATURDIMIENTO,ЭФФЕКТ ПРЕДМЕТА: ВОССТАНОВЛЕНИЕ ОГЛУШЕНИЯ,ผลของไอเทม: ฟื้นคืนการชะลอ,아이템 효과: 기절 해제,تأثير العنصر: استعادة الإصابة,EFFETTO DELL'OGGETTO: RIPRISTINA STORDIMENTO,EFECTO DO ITEM: RECUPERAR ATORDOAMENTO
+ITEM_EFFECT5,减速,SLOW,アイテム効果：スロウ,ITEM WIRKUNG: VERLANGSAMUNG,EFFET D'OBJET : RALENTISSEMENT,EFECTO DEL ÍTEM: RALENTIZAR,ЭФФЕКТ ПРЕДМЕТА: ЗАМЕДЛЕНИЕ,ผลของไอเทม: ลดความเร็ว,아이템 효과: 느려짐,تأثير العنصر: بطء,EFFETTO DELL'OGGETTO: SLOW,EFECTO DO ITEM: DEVAGAR
+ITEM_EFFECT6,减速解除,SLOW RECOVER,アイテム効果：スロウ解消,ITEM WIRKUNG: VERLANGSAMUNG HEILEN,EFFET D'OBJET : GUÉRISON DU RALENTISSEMENT,EFECTO DEL ÍTEM: RECUPERAR RALENTIZAR,ЭФФЕКТ ПРЕДМЕТА: ВОССТАНОВЛЕНИЕ ЗАМЕДЛЕНИЯ,ผลของไอเทม: ฟื้นคืนความช้า,아이템 효과: 느려짐 해제,تأثير العنصر: استعادة البطء,EFFETTO DELL'OGGETTO: RIPRISTINA SLOW,EFECTO DO ITEM: RECUPERAR DEVAGAR
+ITEM_EFFECT7,流血,BLEED,アイテム効果：出血,ITEM WIRKUNG: BLUTUNG,EFFET D'OBJET : SAIGNEMENT,EFECTO DEL ÍTEM: SANGRAR,ЭФФЕКТ ПРЕДМЕТА: КРОВОТЕЧЕНИЕ,ผลของไอเทม: การไหลเลือด,아이템 효과: 출혈,تأثير العنصر: نزيف,EFFETTO DELL'OGGETTO: SANGUINAMENTO,EFECTO DO ITEM: SANGRAR
+ITEM_EFFECT8,流血解除,BLEED RECOVER,アイテム効果：出血解消,ITEM WIRKUNG: BLUTUNG HEILEN,EFFET D'OBJET : GUÉRISON DU SAIGNEMENT,EFECTO DEL ÍTEM: RECUPERAR SANGRADO,ЭФФЕКТ ПРЕДМЕТА: ВОССТАНОВЛЕНИЕ КРОВОТЕЧЕНИЯ,ผลของไอเทม: ฟื้นคืนการไหลเลือด,아이템 효과: 출혈 해제,تأثير العنصر: استعادة النزيف,EFFETTO DELL'OGGETTO: RIPRISTINA SANGUINAMENTO,EFECTO DO ITEM: RECUPERAR SANGRAR
+ITEM_EFFECT9,受伤,WOUND,アイテム効果：傷つける,ITEM WIRKUNG: VERLETZUNG,EFFET D'OBJET : BLESSURE,EFECTO DEL ÍTEM: HERIR,ЭФФЕКТ ПРЕДМЕТА: РАНА,ผลของไอเทม: บาดแผล,아이템 효과: 상처 입히기,تأثير العنصر: جرح,EFFETTO DELL'OGGETTO: FERITA,EFECTO DO ITEM: FERIR
+ITEMALL,全部,ALL,アイテム全て,ALLE,EFFETS DES OBJETS,TODOS LOS ÍTEMS,ВСЕ ПРЕДМЕТЫ,ไอเทมทั้งหมด,모든 아이템,جميع العناصر,TUTTI GLI OGGETTI,TODOS OS ITENS
+ITEMCONSUME,消耗品,CONSUME,アイテム消耗,VERBRAUCHEN,UTILISER UN OBJET,CONSUMIR,ПОТРЕБЛЯТЬ,บริโภคไอเทม,아이템 사용,استهلاك العنصر,CONSUMARE,CONSUMIR ITEM
+ITEMEQUIP,装备,EQUIPMENTS,アイテム装備,AUSRÜSTUNG,ÉQUIPEMENTS,EQUIPAMIENTO,СНАРЯЖЕНИЕ,อุปกรณ์,장비 아이템,تجهيزات,ATTREZZATURA,ACESSÓRIOS
+ITEMINFO,物品简介,ITEM INFORMATION,アイテム情報,OBJEKTINFORMATION,INFORMATIONS SUR L'OBJET,INFORMACIÓN DEL ÍTEM,ИНФОРМАЦИЯ О ПРЕДМЕТЕ,ข้อมูลไอเทม,아이템 정보,معلومات العنصر,INFORMAZIONI SULL'OGGETTO,INFORMAÇÕES DO ITEM
+ITEMKEY,关键物品,KEY ITEMS,アイテムキー,WAICHSCHLÜSSEL,OBJETS CLÉS,OBJETOS CLAVE,КЛЮЧЕВЫЕ ПРЕДМЕТЫ,ไอเทมสำคัญ,중요한 아이템,العناصر الرئيسية,OGGETTI CHIAVE,ITENS CHAVE
+ITEMLAST,最近物品,RECENT,最新アイテム,LETZTE OBJEKTE,DERNIERS OBJETS,ÚLTIMOS ÍTEMS,ПОСЛЕДНИЕ ПРЕДМЕТЫ,ไอเทมล่าสุด,최근 아이템,العناصر الأخيرة,ULTIMI,ITENS RECENTES
+ITEMLEVEL,物品等级,ITEM LEVEL,アイテムレベル,OBJEKTSTUFE,NIVEAU DE L'OBJET,NIVEL DEL ÍTEM,УРОВЕНЬ ПРЕДМЕТА,ระดับไอเทม,아이템 레벨,مستوى العنصر,LIVELLO DELL'OGGETTO,NÍVEL DO ITEM
+ITEMWASTE,其他,OTHERS,アイテム不明,ANDERE,INCONNUS,OTROS,ДРУГИЕ,อื่น ๆ,기타,غيرها,ALTRE,OUTROS
+ITEMWEIGHT,物品重量,ITEM WEIGHT,アイテム重さ,GEWICHT,POIDS DE L'OBJET,PESO DEL ÍTEM,ВЕС ПРЕДМЕТА,น้ำหนักไอเทม,아이템 무게,وزن العنصر,POIDS DE L'OBJET,OUTROS
+LASTPAGE,上页,PREVIOUS,前のページ,ZURÜCK,VENDREDI PRÉCÉDENT,PÁGINA ANTERIOR,ПРЕДЫДУЩАЯ СТРАНИЦА,หน้าที่แล้ว,이전,الصفحة السابقة,PAGINA PRECEDENTE,PÁGINA ANTERIOR
+MALE,男性,MALE,男性,MALE,MALE,MALE,МУЖЧИНА,ชาย,남성,ذكر,MALE,MALE
+MAPVIEW,查看地图,VIEW MAP,マップ表示,KARTE ANZEIGEN,AFFICHER LA CARTE,VER MAPA,ПРОСМОТР КАРТЫ,ดูแผนที่,맵 보기,عرض الخريطة,VISUALIZZA MAPPA,VER MAPA
+MAX,最大,MAX,最大,MAX,MAX,MAX,МАКСИМУМ,สูงสุด,최대,الحد الأقصى,MASSIMO,MÁXIMO
+MENUACHIEVEMENT,成就,ACHIEVEMENTS,成果,ACHIEVEMENTS,RÉALISATIONS,LOGROS,ДОСТИЖЕНИЯ,รางวัล,업적,إنجازات,OBBIETTIVI,RÉALISATIONS
+MENUBUY,购买,PURCHASE,買う,PURCHASE,ACHETER,COMPRAR,ПОКУПКА,ซื้อ,구매,شراء,ACQUISTA,COMPRAR
+MENUCANCEL,取消,CANCEL,キャンセル,CANCEL,ANNULER,CANCELAR,ОТМЕНА,ยกเลิก,취소,إلغاء,ANNULLA,CANCELAR
+MENUCHARACTERINFO,角色信息,CHARACTER INFO,キャラクター情報,CHARACTER INFO,INFO PERSONNAGE,INFORMACIÓN DEL PERSONAJE,ИНФОРМАЦИЯ О ПЕРСОНАЖЕ,ข้อมูลตัวละคร,캐릭터 정보,معلومات الشخصية,INFORMAZIONI DEL PERSONAGGIO,INFORMAÇÕES DO PERSONAGEM
+MENUCOIN,请按开始键,PRESS START,スタートキーを押してください,PRESS START,APPUYEZ SUR START,PULSA START,НАЖМИТЕ START,กด START,START를 누르세요,اضغط على بدء,PREMERE START,PRESSIONE START
+MENUCONFIRM,确认,CONFIRM,確認する,CONFIRM,CONFIRMER,CONFIRMAR,ПОДТВЕРДИТЬ,ยืนยัน,확인,تأكيد,CONFERMA,CONFIRMAR
+MENUCONTINUE,继续,CONTINUE,続く,CONTINUE,CONTINUER,CONTINUAR,ПРОДОЛЖИТЬ,ดำเนินการต่อ,계속,استمرار,CONTINUA,CONTINUAR
+MENUCUREQUIP,当前装备,EQUIPPED,現在の装備,EQUIPPED,ÉQUIPÉ,ACTUALMENTE EQUIPADO,ОБОРУДОВАНО,เครื่องมือปัจจุบัน,현재 장착,المعدات الحالية,ATTREZZATURA ATTUALE,EQUIPADO ATUALMENTE
+MENUDESTROY,销毁,DESTROY,破壊する,DESTROY,DÉTRUIRE,DESTRUIR,УНИЧТОЖИТЬ,ทำลาย,파괴,تدمير,ISTRUGGI,DESTRUIR
+MENUEQUIP,装备,EQUIPMENTS,装備,EQUIPMENTS,ÉQUIPEMENTS,EQUIPAMIENTO,ОБОРУДОВАНИЕ,อุปกรณ์,장비 아이템,التجهيزات,ATTREZZATURA,ITENS DE EQUIPAMENTO
+MENUEXIT,离开,EXIT,やめる,EXIT,QUITTER,SALIR,ВЫХОД,ออก,나가기,خروج,ESCI,SAIR
+MENUINSERTCOIN,请投入硬币,PRESS INSERT COIN(S),コインを入れてください,PRESS INSERT COIN(S),INSÉRER DES PIÈCES,INSERTE MONEDA(S),ВСТАВЬТЕ МОНЕТУ(Ы),สะสมเหรียญ,동전을 넣으세요,أدخل عملة,INSERISCI MONETA/E,INSIRA A(S) MOEDA(S)
+MENUINVENTORY,物品,ITEMS,もの,ITEMS,INVENTAIRE,INVENTARIO,ИНВЕНТАРЬ,ไอเทม,아이템,العناصر,INVENTARIO,ITENS
+MENUITEMINFO,物品信息,ITEM INFO,アイテム情報,ITEM INFO,INFORMATIONS SUR L'OBJET,INFORMACIÓN DEL ÍTEM,ИНФОРМАЦИЯ О ПРЕДМЕТЕ,ข้อมูลไอเทม,아이템 정보,معلومات العنصر,INFORMAZIONI SULL'OGGETTO,INFORMAÇÕES DO ITEM
+MENUITEMTOTAL,物品数量,TOTAL,物の数,TOTAL,TOTAL DES OBJETS,TOTAL DE ÍTEMS,ОБЩЕЕ КОЛИЧЕСТВО ПРЕДМЕТОВ,รวมทั้งหมด,아이템 총수,المجموع الكلي للعناصر,TOTALE,Total de Itens
+MENULASTSAVE,从最近一次存档开始,CONTINUE FROM LAST SAVE,最新の保存から開始,CONTINUE FROM LAST SAVE,CONTINUER À PARTIR DE LA DERNIÈRE SAUVEGARDE,CONTINUAR DESDE EL ÚLTIMO GUARDADO,ПРОДОЛЖИТЬ С ПОСЛЕДНЕГО СОХРАНЕНИЯ,ดำเนินการต่อจากการบันทึกครั้งล่าสุด,최근 저장한 내용에서 시작,متابعة من آخر حفظ,CONTINUA DALL'ULTIMO SALVATAGGIO,CONTINUAR DO ÚLTIMO SALVAMENTO
+MENULOAD,读取,LOAD,読む,LOAD,CHARGER,CARGAR,ЗАГРУЗИТЬ,โหลด,불러오기,تحميل,CARICA,CARREGAR
+MENUMAIN,主菜单,MAIN MENU,メインメニュー,MAIN MENU,MENU PRINCIPAL,MENÚ PRINCIPAL,ГЛАВНОЕ МЕНЮ,เมนูหลัก,메인 메뉴,القائمة الرئيسية,MENU PRINCIPALE,MENU PRINCIPAL
+MENUMAP,地图,MAP,地図,MAP,CARTE,CARTE,КАРТА,แผนที่,지도,خريطة,MAPPA,MAPA
+MENUNEW,新游戏,NEW GAME,新しいゲーム,NEW GAME,NOUVELLE PARTIE,NUEVO JUEGO,НОВАЯ ИГРА,เริ่มเกมใหม่,새 게임,بدء لعبة جديدة,NUOVA PARTITA,NOVO JOGO
+MENUNOTEQUIPPED,未装备,NOT EQUIPPED,未装備,NOT EQUIPPED,NON ÉQUIPÉ,PENDIENTE DE EQUIPAR,НЕ ОБОРУДОВАНО,ยังไม่ได้ใส่,아직 장착되지 않음,غير مجهز,NON EQUIPAGGIATO,NÃO EQUIPADO
+MENUPAGE,页,PAGE,ページ,PAGE,PAGE,PÁGINA,СТРАНИЦА,หน้า,페이지,صفحة,PAGINA,PÁGINA
+MENUPAGESWITCH,翻页,SWITCH PAGES,ページをめくる,SWITCH PAGES,CHANGER DE PAGE, CAMBIAR DE PÁGINA,ПЕРЕКЛЮЧЕНИЕ СТРАНИЦ,สลับหน้า,페이지 전환,تبديل الصفحات,PASSAGGIO PAGINA,CAMINHO DA PÁGINA
+MENUQUEST,任务,QUESTS,タスク,QUESTS,QUÊTES,MISIONES,ЗАДАНИЯ,เควส,퀘스트,مهام,MISSIONI,MISSÕES
+MENUQUESTBOARD,任务发布,QUESTBOARD,タスクのリリース,QUESTBOARD,PLANCHE DES QUÊTES,PANEL DE MISIONES,ДОСКА ЗАДАНИЙ,กระดานภารกิจ,퀘스트 게시판,لوحة المهام,SEGNAPASSI,BANCO DE MISSÕES
+MENUQUESTTOTAL,任务数量,TOTAL,タスクの数,TOTAL,TOTAL DES QUÊTES,TOTAL DE MISIONES,ВСЕГО ЗАДАНИЙ,รวมทั้งหมด,모든 퀘스트,إجمالي المهام,TOTALE MISSIONI,TOTAL DE MISSÕES
+MENUQUIT,退出,QUIT,やめる,QUIT,QUITTER,SALIR,ВЫХОД,ออก,끝내기,خروج,USCITA,SAIR
+MENURESTART,重新开始,RESTART,再起動,RESTART,RECOMMENCER,REINICIAR,НАЧАТЬ СНАЧАЛА,เริ่มใหม่,다시 시작,إعادة التشغيل,RIAVVIA,REINICIAR
+MENURESUME,返回,RESUME,戻る,RESUME,REPRENDRE,RESUMIR,ПРОДОЛЖИТЬ,กลับ,재개,استئناف,RIPRENDI,RETOMAR
+MENURETURN,返回,RETURN,戻る,RETURN,RETOUR,REGRESAR,ВЕРНУТЬСЯ,กลับ,돌아가기,العودة,RESTITUISCI,RETORNAR
+MENUSAVE,保存,SAVE,保存,SAVE,ENREGISTRER,GUARDAR,СОХРАНИТЬ,บันทึก,저장,حفظ,SALVA,SALVAR
+MENUSELL,出售,SELL,販売,VERKAUF,VENDRE,VENDER,продавать,ขาย,판매,بيع,VENDERE,VENDER
+MENUSETTING,系统设置,SHETTINGS,システム設定,SYSTEMEINSTELLUNGEN,RÉGLAGES DU SYSTÈME,CONFIGURACIÓN DEL SISTEMA,настройки системы,การตั้งค่าระบบ,시스템 설정,إعدادات النظام,IMPOSTAZIONI DEL MENU,CONFIGURAÇÕES DO MENU
+MENUSHOP,商店,SHOP,ショップ,GESCHÄFT,MAGASIN,TIENDA,магазин,ร้านค้า,가게,متجر,NEGOZIO,LOJA
+MENUSKILL,技能,SKILLS,スキル,FÄHIGKEITEN,COMPÉTENCES,HABILIDADES,навыки,ทักษะ,기술,مهارات,ABILITÀ,COMPETÊNCIAS
+MENUSKILLTOTAL,技能数量,TOTAL,スキル総数,GESAMTZAHL DER FÄHIGKEITEN,NOMBRE TOTAL DE COMPÉTENCES,TOTAL DE HABILIDADES,общее количество навыков,จำนวนทักษะทั้งหมด,기술 총수,إجمالي المهارات,TOTALE DELLE ABILITÀ,TOTAL DE COMPETÊNCIAS
+MENUSTATUS,状态,STATUS,ステータス,STATUS,STATUT,ESTADO,статус,สถานะ,상태,الحالة,STATO,ESTADO
+MENUSTATUSADVANCED,进阶属性,ADVANCED STATUS,高度なステータス,ERWEITERTE STATUS,STATUT AVANCÉ,ESTADO AVANZADO,расширенный статус,สถานะขั้นสูง,고급 상태,الحالة المتقدمة,STATO AVANZATO,ESTADO AVANÇADO
+MENUSTATUSBASIC,基础属性,BASIC STATUS,基本ステータス,BASISSTATUS,STATUT DE BASE,ESTADO BÁSICO,основной статус,สถานะพื้นฐาน,기본 상태,الحالة الأساسية,STATO DI BASE,ESTADO BÁSICO
+MENUSTATUSDETAIL,详细属性,DETAILED STATUS,詳細ステータス,DETAILLIERTE STATUS,AUTRES DÉTAILS,ESTADO DETALLADO,детализированный статус,สถานะละเอียด,자세한 상태,الحالة المفصلة,STATO DETTAGLIATO,ESTADO DETALHADO
+MENUSWITCHCHARACTER,选择角色,CHARACTER,キャラクター選択,CHARAKTERAUSWAHL,CHOIX DU PERSONNAGE,SELECCIONAR PERSONAJE,выбор персонажа,เลือกตัวละคร,캐릭터 선택,اختيار الشخصية,SELEZIONA PERSONAGGIO,SELECIONAR PERSONAGEM
+MENUSYSTEM,系统,SYSTEM,システム,SYSTEM,SYSTÈME,SISTEMA,система,ระบบ,시스템,النظام,SYSTEM,SISTEMA
+MENUUNEQUIP,解除装备,UNEQUIP,装備解除,ABRÜSTEN,DÉSÉQUIPER,DESEQUIPAR,снять снаряжение,ถอดอุปกรณ์,장착 해제,إلغاء التجهيز,DISARMARE,DESARMAR
+MENUUSE,使用,USE,使用,VERWENDEN,UTILISER,USAR,использовать,ใช้,사용,استخدام,UTILIZZARE,USAR
+MESSAGEARCADECONTINUE,继续游戏,CONTINUE,ゲームを続ける,WEITER SPIELEN,CONTINUER LE JEU,CONTINUAR EL JUEGO,продолжить игру,ดำเนินการเล่นต่อ,게임 계속하기,متابعة اللعبة,CONTINUA IL GIOCO,CONTINUAR O JOGO
+MESSAGEARCADECREDITS,机会数,CREDITS,クレジット数,ANZAHL DER MÜNZEN,NOMBRE DE CRÉDITS,NÚMERO DE CRÉDITOS,количество кредитов,จำนวนเหรียญ,크레딧 수,عدد النقاط,NUMERO DI CREDITI,NÚMERO DE CRÉDITOS
+MESSAGEARCADEJOIN,按键加入游戏,PRESS BUTTON TO JOIN,ゲームに参加するにはボタンを押してください,SPIEL BEITRETEN: TASTE DRÜCKEN,APPUYEZ SUR LE BOUTON POUR REJOINDRE,PRESONE EL BOTÓN PARA UNIRSE,нажмите кнопку, чтобы присоединиться,กดปุ่มเพื่อเข้าร่วม,참여하려면 버튼을 누르세요,اضغط على الزر للانضمام,PREMERE IL PULSANTE PER UNIRSI,PRESSIONE O BOTÃO PARA PARTICIPAR
+MESSAGEARCADELIVES,生命,LIFE,ライフ,LEBEN,VIES,VIDAS,жизни,ชีวิต,목숨,حياة,VITE,VIDAS
+MESSAGEDEFEATED,战败,DEFEATED,敗北,DEFEAT,DÉFAIT,DERROTADO,поражение,พ่ายแพ้,패배,هزيمة,SCONFITTO,DERROTADO
+MESSAGEDOORLOCKED,门从里面锁上了..,Door was locked from inside...,ドアは内側から施錠されています...,Die Tür wurde von innen verschlossen...,La porte était verrouillée de l'intérieur...,La puerta estaba cerrada desde adentro...,Дверь заперта изнутри...,ประตูถูกล็อกจากด้านใน...,문이 안에서 잠겨 있습니다...,الباب مغلق من الداخل...,La porta è stata chiusa dall'interno...,A porta estava trancada por dentro...
+MESSAGEDRIVE,驾驶,DRIVE,運転,FAHREN,CONDUITE,CONDUCCIÓN,вождение,การขับขี่,운전,القيادة,GUIDARE,DIRIGIR
+MESSAGEFIGHTBEGIN,战斗开始,FIGHT BEGIN,戦闘開始,KAEMPFEN BEGINNEN,COMBAT COMMENCE,COMIENZA LA BATALLA,начало битвы,เริ่มการต่อสู้,전투 시작,بدء القتال,INIZIO DELLA LOTTA,COMEÇO DA LUTA
+MESSAGEFIGHTEND,战斗结束,FIGHT END,戦闘終了,KAEMPFEN ENDE,FIN DU COMBAT,FIN DE LA BATALLA,конец битвы,จบการต่อสู้,전투 종료,نهاية القتال,FINE DELLA LOTTA,FIM DA LUTA
+MESSAGEGAMEOVER,你的队伍全灭了,Your team is eliminated,ゲームオーバー,Dein Team wurde ausgelöscht,VOTRE ÉQUIPE A ÉTÉ ÉLIMINÉE,TU EQUIPO HA SIDO ELIMINADO,ваша команда уничтожена,ทีมของคุณถูกกำจัด,당신의 팀이 처치되었습니다,فريقك تم القضاء عليه,GIOCO FINITO,SEU TIME FOI ELIMINADO
+MESSAGEHOLDSKIP,按住跳过,HOLD TO SKIP,スキップするには押し続けてください,DRÜCKEN UND HALTEN,MAINTENEZ POUR SAUTER,MANTENER PARA SALTAR,удерживайте, чтобы пропустить,กดค้างเพื่อข้าม,길게 누르고 스킵,استمر في الضغط للتخطي,TIENI PREMUTO PER SALTA,MANTENHA PARA SALTAR
+MESSAGEINN,是否休息,Do you want to take a rest,宿屋で休みますか？,Möchten Sie sich ausruhen?,Voulez-vous vous reposer?,¿Quieres descansar?,Хотите отдохнуть?,คุณต้องการพักหรือไม่?,휴식을 취하시겠습니까?,هل ترغب في الاستراحة؟,Vuoi riposarti?,Você quer descansar?
+MESSAGEINNBROKE,没有足够的钱,You don't have enough money,お金が足りません,Du hast nicht genug Geld,Vous n'avez pas assez d'argent,No tienes suficiente dinero,У вас недостаточно денег,คุณมีเงินไม่เพียงพอ,돈이 부족합니다,ليس لديك ما يكفي من المال,Non hai abbastanza soldi,Você não tem dinheiro suficiente
+MESSAGEINNCANCEL,算了,Leave,やっぱりやめます,Verlassen,Annuler,Salir,Покинуть,ลาออก,떠나기,اترك,Abbandona,Sair
+MESSAGEINNPAY,支付, Pay,支払う,Bezahlen,Payer,Pagar,оплатить,ชำระเงิน,지불,ادفع, Pagare,Pagar
+MESSAGEINNREST,休息, Rest,休憩,Erholung,Repos,Descanso,отдых,พัก,휴식,استراحة,Riposo,Descanso
+MESSAGEITEMGOT,获得物品, Got item,アイテムを入手しました,Item erhalten,Objet obtenu,Obtuviste un objeto,получено предмет,ได้รับไอเท็ม,아이템 획득,حصلت على العنصر,È stato ottenuto un oggetto,Item obtido
+MESSAGEITEMREQUIRE,缺少物品无法打开,Item required to unlock,アンロックするにはアイテムが必要です,Item erforderlich zum Entsperren,Objet requis pour déverrouiller,Se requiere un objeto para desbloquear,необходим предмет для разблокировки,ต้องการไอเท็มเพื่อปลดล็อค,잠금 해제에 필요한 아이템,العنصر مطلوب للفتح,È necessario un oggetto per sbloccare,Liberar requer um item
+MESSAGELOCKLEAVE,放弃,LEAVE,放棄,VERLASSEN,ABANDONNER,SALIR,покинуть,ออก,나가기,مغادرة,ABBIANDONARE,SAIR
+MESSAGELOCKOPEN,开锁,OPEN,開錠,ÖFFNEN,DÉVERROUILLER,ABRIR,открыть,เปิด,열기,فتح,APRI,ABRIR
+MESSAGELOCKREQUIRE,开锁需要,Requirement,開錠には要件があります,Öffnung erfordert,Besoin d'un déverrouillage,Requisito para abrir,для открытия требуется,การเปิดต้องการ,열리려면 조건이 필요합니다,يتطلب الفتح,Requisito per aprire,Requisito para abrir
+MESSAGEOVERWEIGHT,你已经无法拿起更多的东西(超重),YOU CANNOT CARRY MORE ITEMS(OVERWEIGHT),アイテムをもう持てません(重量オーバー),SIE KÖNNEN KEINE WEITEREN GEGENSTÄNDE TRAGEN (ÜBERGEWICHT),VOUS NE POUVEZ PAS TRANSPORTER PLUS D'OBJETS (SURCHARGE),NO PUEDES LLEVAR MÁS OBJETOS (SOBREPESO),невозможно нести больше предметов (перегрузка),คุณไม่สามารถพกของเพิ่มเติมได้อีก (น้ำหนักเกิน),더 이상 아이템을 들 수 없습니다 (무게 초과),لا يمكنك حمل المزيد من العناصر (زيادة الوزن),NON PUOI PORTARE ALTRI OGGETTI (SOVRAPPESO),VOCÊ NÃO PODE CARREGAR MAIS ITENS (SOBREPESO)
+MESSAGEREST,休息,REST,休憩,PAUSE,RÉPIT,DESCANSO,отдых,พัก,휴식,راحة,RIPOSO,DESCANSO
+MESSAGETEAMCANCEL,放弃, Cancel,キャンセル,Abbrechen,Annuler,Cancelar,отменить,ยกเลิก,취소,إلغاء,Annulla,Cancelar
+MESSAGETEAMCHANGE,变更,CHANGE,変更,ÄNDERN,CHANGER,CAMBIAR,изменить,เปลี่ยน,변경,تغيير,CAMBIAMENTO,MUDANÇA
+MESSAGETEAMCHANGEPLAYER,变更角色为,Change Character to,キャラクターを変更,Charakter ändern,Changer de personnage à,Cambiar personaje a,сменить персонажа на,เปลี่ยนตัวละครเป็น,캐릭터를 변경하세요,تغيير الشخصية إلى,Cambia personaggio in,Mudar personagem para
+MESSAGETEAMJOIN,是否邀请加入队伍, is joining team,チームに参加しますか？,tritt dem Team bei,va rejoindre l'équipe,se está uniendo al equipo,присоединяется к команде,เข้าร่วมทีม,팀에 가입하시겠습니까?,هل ترغب في الانضمام إلى الفريق؟,sta unendosi alla squadra,está se juntando à equipe
+MESSAGETEAMJOINED,加入队伍, has joined team,チームに加入しました,hat sich dem Team angeschlossen,a rejoint l'équipe,se ha unido al equipo,присоединился к команде,เข้าร่วมทีม,팀에 가입했습니다,انضم إلى الفريق,si è unito alla squadra,se juntou à equipe
+MESSAGETEAMNO,不加入, No,加入しない,Nein,Non,Otro,No,не присоединяться,ไม่เข้าร่วม,가입하지 않음,لا,Non, Não
+MESSAGETEAMREPLACE,代替谁加入队伍, is replacing a team member,誰かの代わりにチームに参加しますか？,ersetzt ein Teammitglied,remplace un membre de l'équipe,está reemplazando a un miembro del equipo,заменяет одного из участников команды,จะแทนที่สมาชิกของทีมคนหนึ่ง,누군가의 대신 팀에 가입하시겠습니까?,هل سيحل محل أحد أفراد الفريق؟,sta sostituendo un membro della squadra,está substituindo um membro da equipe
+MESSAGETEAMYES,加入, Yes,はい,Ja,Oui,Sí,да,ใช่,예,نعم,Sì,Sim
+MESSAGETURN,回合,TURN,ターン,UMDREHEN,TOUR,GIRO,ход,ตา,차례,دورo,GIRA,TURNO
+MESSAGEVICTORY,胜利,VICTORY,勝利,Sieg,VICTOIRE,VICTORIA,победа,ชัยชนะ,승리,النصر,VITTORIA,VITÓRIA
+MONEY,金钱,MONEY,お金,Geld,Argent,Dinero,Деньги,เงิน,돈,المال,Denaro,Dinheiro
+MORAL,道德,MORAL,モラル,Moral,Moral,Moral,нравственный,ศีลธรรม,도덕적,أخلاقي,Etico,Moral
+MOVELIST,输入指令,COMMAND,コマンドを入力してください,Befehl eingeben,Entrer la commande,Ingresar comando,введите команду,ป้อนคำสั่ง,명령을 입력하세요,أدخل الأمر,Inserisci il comando,Insira o comando
+MP,法力,Mana,マナ,Mana,Mana,Maná,Мана,แมนา,마나,مانا,Mana,Mana
+MPMAX,最大法力,Maximum Mana,最大マナ,Maximales Mana,Mana maximum,Mana máximo,Максимальная мана,จำนวนมากสุดของมานา,최대 마나,الحد الأقصى للمانا,Mana massima,Mana máximo
+NEXTPAGE,下页,NEXT,次のページ,NÄCHSTE SEITE,PAGE SUIVANTE,PÁGINA SIGUIENTE,следующая страница,หน้าถัดไป,다음 페이지,الصفحة التالية,PROSSIMA PAGINA,PÁGINA SEGUINTE
+NOCD,无冷却,NO COOLDOWN,クールダウンなし,KEINE ABKÜHLUNG,PAS DE TEMPS DE RECHARGE,SIN ENFRIAMIENTO,нет перезарядки,ไม่มีการรอเวลา,쿨다운 없음,لا توجد فترة تبريد,NESSUNO STOP,SEM TEMPO DE RECARGA
+NOITEM,无物品,NO ITEM,アイテムなし,KEIN GEGENSTAND,AUCUN OBJET,NO HAY OBJETO,нет предмета,ไม่มีไอเทม,아이템 없음,لا يوجد عنصر,NESSUN OGGETTO,SEM ITEM
+NONE,无,N/A,なし,KEINE,AUCUN,N/D,нет,ไม่มี,NONE,NONE,لا شيء,NONE,NONE
+NOQUEST,无任务,NO QUEST,クエストなし,KEINE QUEST,AUCUNE QUÊTE,NO HAY MISIÓN,нет задания,ไม่มีเควส,퀘스트 없음,لا توجد مهمة,NESSUNA MISSONE,SEM MISSÃO
+OTHER,其他,OTHER,その他,ANDERES,AUTRE,OTRO,другой,อื่น ๆ,기타,آخر,ALTRO,OUTRO
+OUTOFMONEY,无法支付,NOT ENOUGH MONEY,お金が足りません,Geld nicht ausreichend,Pas assez d'argent,No hay suficiente dinero,недостаточно денег,เงินไม่พอ,돈이 부족합니다,المال غير كافٍ,Denaro non sufficiente,Dinheiro insuficiente
+OVERWEIGHT,超重,OVERWEIGHT,オーバーウェイト,Übergewicht,Excès de poids,Sobrepeso,избыточный вес,น้ำหนักเกิน,비만,زيادة الوزن,Sovrappeso,Sobrepeso
+PASSIVE1,被动技能 1,PASSIVE 1,パッシブ1,Passive 1,Passif 1,Pasivo 1,Пассивный 1,ท่านถูกควบคุมด้วยบทบาทที่ 1,패시브 1,المرحلة السلبية 1,Passiva 1,Passivo 1
+PASSIVE2,被动技能 2,PASSIVE 2,パッシブ2,Passive 2,Passif 2,Pasivo 2,Пассивный 2,ท่านถูกควบคุมด้วยบทบาทที่ 2,패시브 2,المرحلة السلبية 2,Passiva 2,Passivo 2
+PASSIVE3,被动技能 3,PASSIVE 3,パッシブ3,Passive 3,Passif 3,Pasivo 3,Пассивный 3,ท่านถูกควบคุมด้วยบทบาทที่ 3,패시브 3,المرحلة السلبية 3,Passiva 3,Passivo 3
+PLATINUM,白金,PLATINUM,プラチナ,Platin,Platine,Platino,Платина,แพลทินัม,플래티넘,بلاتينوم,Platino,Platina
+PLAYER,玩家,PLAYER,プレイヤー,Spieler,Joueur,Jugador,игрок,ผู้เล่น,플레이어,اللاعب,Giocatore,Jogador
+PP0,生命,HP,HP,ヒットポイント,Lebenspunkte,Points de vie,Puntos de vida,точки здоровья,แต้มชีวิต,생명력,نقاط الصحة,Punti vita,Pontos de vida
+PP1,体力,STAMINA,スタミナ,STAMINA,Endurance,Resistencia,выносливость,สตามิน่า,스태미너,قوة العضلات,Stamina,Estamina
+PP10,兵刃,WEAPON,武器,WAFFE,ARME,ARMA,оружие,อาวุธ,무기,سلاح,Arma,Arma
+PP11,隐匿,STEALTH,ステルス,Heimlichkeit,Furtivité,Sigilo,незаметность,Stealth,은신,التسلل,Furtività,Furtividade
+PP12,运气,LUCK,運,Glück,Chance,Suerte,удача,โชค,운,حظ,Fortuna,Sorte
+PP2,法力,MP,マジックポイント,Mana,Mp,Puntos de magia,очки маны,แต้มแมจิก,마나 포인트,نقاط السحر,Mana,Pontos de Magia
+PP3,必杀技,ULTIMATE,アルティメット,Ultimate,Suprême,Definitivo,ульти,อูลติเมต,얼티밋,النهائي,Ultimate,Definitivo
+PP4,力量,STRENGTH,力,Stärke,Force,Fuerza,сила,ความแข็งแกร่ง,힘,القوة,Forza,Força
+PP5,敏捷,AGILITY,アジリティ,Geschicklichkeit,Agilité,Agilidad,ловкость,ความคล่องแคล่ว,민첩성,الرشاقة,Agilità,Agilidade
+PP6,智力,INTELLIGENCE,知性,Intelligenz,Intelligence,Inteligencia,интеллект,สติปัญญา,지능,ذكاء,Intelligenza,Inteligência
+PP7,体魄,VITALITY,ビタリティ,Vitalität,Vitalité,Vitalidad,живучесть,วิตาลิตี,체력,قوة البدن,Vitalità,Vitalidade
+PP8,耐力,ENDURANCE,耐久力,Ausdauer,Endurance,Resistencia,выносливость,ความอดทน,인내력,القدرة على التحمل,Resistenza,Resistência
+PP9,意志,MIND,精神,Kopf,Esprit,Mente,ум,จิตใจ,마음,عقل,Mente,Mente
+PR_ACTIONPOINT,行动点,AP,アクションポイント,AP,Point d'action,Puntos de acción,очки действия,คะแนนการกระทำ,행동 점수,نقاط العمل,Punto d'azione,Pontos de Ação
+PR_AGI,敏捷,AGILITY,アジリティ,Geschicklichkeit,Agilité,Agilidad,ловкость,ความคล่องแคล่ว,민첩성,الرشاقة,Agilità,Agilidade
+PR_AP,属性点,ATTRIBUTE POINTS,属性ポイント,Attributpunkte,Points d'attribut,Puntos de atributo,очки атрибутов,คะแนนแอตทริบิวต์,속성 포인트,نقاط السمات,Punti attributo,Pontos de Atributo
+PR_AP_LEVEL,升级属性点,AP PER LEVEL,レベルごとの属性ポイント,AP pro Stufe,AP par niveau,AP por nivel,AP за уровень,AP ต่อระดับ,레벨당 AP,نقاط السمات لكل مستوى,Punti attributo per livello,Pontos de Atributo por Nível
+PR_END,耐力,ENDURANCE,耐久力,Ausdauer,Endurance,Resistencia,выносливость,ความอดทน,인내력,القدرة على التحمل,Resistenza,Resistência
+PR_INT,智力,INTELLIGENCE,知性,Intelligenz,Intelligence,Inteligencia,интеллект,สติปัญญา,지능,ذكاء,Intelligenza,Inteligência
+PR_LCK,运气,LUCK,運,Glück,Chance,Suerte,удача,โชค,운,حظ,Fortuna,Sorte
+PR_MND,意志,WILLPOWER,意志力,Wille,Volonté,Voluntad,воля,ความมุ่งมั่น,의지력,قوة الإرادة,Forza di volontà,Força de Vontade
+PR_SP,技能点,SKILL POINTS,スキルポイント,Skillpunkte,Points de compétence,Puntos de habilidad,очки навыков,คะแนนทักษะ,스킬 포인트,نقاط المهارة,Punti abilità,Pontos de Habilidade
+PR_SP_LEVEL,升级技能点,SP PER LEVEL,レベルごとのスキルポイント,SP pro Stufe,SP par niveau,SP por nivel,SP за уровень,SP ต่อระดับ,레벨당 SP,نقاط المهارة لكل مستوى,Punti abilità per livello,Pontos de Habilidade por Nível
+PR_STH,隐匿,STEALTH,ステルス,Heimlichkeit,Furtivité,Sigilo,незаметность,Stealth,은신,التسلل,Furtività,Furtividade
+PR_STR,力量,STRENGTH,力,Stärke,Force,Fuerza,сила,ความแข็งแกร่ง,힘,القوة,Forza,Força
+PR_VIT,体魄,VITALITY,ビタリティ,Vitalität,Vitalité,Vitalidad,живучесть,วิตาลิตี,체력,قوة البدن,Vitalità,Vitalidade
+PR_WPN,兵刃,WEAPON,武器,WAFFE,ARME,ARMA,оружие,อาวุธ,무기,سلاح,Arma,Arma
+PR_ATTACK,物理伤害,Physical Damage,物理ダメージ,Körperlicher Schaden,Dommages Physiques,Daño físico,Физический урон,ความเสียหายทางกายภาพ,물리적 손상,الأضرار المادية,Danno fisico,Dano físico
+PR_DEFENCE,物理抵抗,Physical Resistance,物理耐性,Physischer Widerstand,Résistance Physique,Resistencia física,Физическое сопротивление,ความต้านทานทางกายภาพ,물리적 저항,المقاومة الجسدية,Resistenza fisica,Resistência Física
+PR_MAGIC,魔法伤害,Magic Damage,魔法ダメージ,Magischer Schaden,Dégâts Magiques,Daño mágico,Магический урон,ความเสียหายเวทย์มนตร์,마법 피해,الضرر السحري,Danno magico,Dano Mágico
+PR_WEAPON,兵刃伤害,Weapon Damage,武器ダメージ,Waffenschaden,Dégâts des Armes,Daño del arma,Урон от оружия,ความเสียหายของอาวุธ,무기 피해,ضرر السلاح,Danni all'arma,Dano de Arma
+PR_DODGE,闪避率,Dodge Rate,回避率,Ausweichrate,Taux d'esquive,Tasa de esquivar,Скорость уклонения,อัตราการหลบหลีก,회피율,معدل دودج,Tasso di schivata,Taxa de evasão
+PR_MAGICRESIST,魔法抵抗,Magic Resistance,魔法耐性,Magieresistenz,La resistance magique,Resistencia mágica,Сопротивление магии,ต้านทานเวทย์มนตร์,마법 저항력,المقاومة السحرية,Resistenza magica,Resistência mágica
+PR_CRITICAL,暴击几率,Critical Chance,クリティカルヒットの確率,Kritische Chance,Chance Critique,Oportunidad crítica,Критический шанс,โอกาสติดคริติคอล,치명타 확률,فرصة ضربة حاسمة,Possibilità critica,Chance crítica
+PR_STEALTHRANGE,隐匿距离,Stealth Distance,隠れ距離,Stealth-Distanz,Distance furtive,Distancia sigilosa,Скрытность на расстоянии,ซ่อนระยะห่าง,숨어있는 거리,مسافة الاختباء,Distanza invisibile,Distância furtiva
+PR_NERFTIME,负面效果抵抗,Debuff Resistance,マイナス効果に対する耐性,Debuff-Widerstand,Résistance aux affaiblissements,Resistencia al perjuicio,Сопротивление дебаффам,ความต้านทานต่อผลกระทบด้านลบ,부정적인 영향에 대한 저항,مقاومة التأثيرات السلبية,Resistenza ai depotenziamenti,Resistência a Debuffs
+PR_STEALTHTIME,隐匿时长,Stealth Duration,隐ダム時間長,Stealth-Dauer,Durée de furtivité,Duración sigilosa,Продолжительность скрытности,ระยะเวลาการซ่อนตัว,스텔스 기간,مدة التخفي,Durata della modalità invisibile,Duração furtiva
+PR_MAGICDODGE,魔法回避,Magic Avoidance,魔法回避,Magievermeidung,Évitement magique,Evitación mágica,Магическое уклонение,การหลีกเลี่ยงเวทย์มนตร์,마법 회피,تجنب السحر,Evitamento magico,Evitação Mágica
+PROPERTY,属性,PROPERTY,プロパティ,Eigenschaft,Propriété,Propiedad,свойство,สมบัติ,속성,خاصية,Proprietà,Propriedade
+QUESTCANNOTREPEAT,不可重复,UNREPEATABLE,リピート不可,NICHT WIEDERHOLBAR,Non répétable,No repetible,невозможно повторить,ไม่สามารถทำซ้ำได้,반복 불가능,غير قابل للتكرار,Non ripetibile,Não Repetível
+QUESTCANREPEAT,可重复,REPEATABLE,リピート可能,WIEDERHOLBAR,Répétable,Repetible,повторяемый,สามารถทำซ้ำได้,반복 가능,قابل للتكرار,Ripetibile,Repetível
+QUESTDESCRIPTION,任务描述,DESCRIPTION,説明,DESCRIPTION,Description,Descripción,описание,คำอธิบาย,설명,الوصف,Descrizione,Descrição
+QUESTEXPIRED,已过期,EXPIRED,期限切れ,ABGELAUFEN,Expiré,Vencido,истекший,หมดอายุ,만료,انتهت الصلاحية,Scaduto,Expirado
+QUESTLEVEL,任务等级,QUEST LEVEL,クエストレベル,QUEST-LEVEL,Niveau de quête,Nivel de misión,уровень задания,เลเวลเควส,퀘스트 레벨,مستوى المهمة,Livello missione,Nível da Missão
+QUESTMAIN,主线剧情,MAIN STORY,メインストーリー,Hauptgeschichte,Histoire principale,Historia principal,Сюжет,เรื่องหลัก,본문,القصة الرئيسية,Storia principale,História principal
+QUESTREWARD,任务奖励,REWARD,報酬,PRÄMIE,Récompense,Recompensa,награда,รางวัล,보상,مكافأة,Ricompensa,Recompensa
+QUESTSUB,支线任务,QUESTS,サブクエスト,NEBENQUESTS,Quêtes secondaires,Misiones secundarias,подзадания,เควสรอง,서브 퀘스트,مهام فرعية,Missioni secondarie,Missões Secundárias
+QUESTSUBEND,已完成,FINISHED,クリア,ABGESCHLOSSEN,Terminé,Terminado,завершено,เสร็จสิ้น,완료,تم الانتهاء,Completato,Concluído
+QUESTSUBFAILED,已失败,FAILED,失敗,FEHLGESCHLAGEN,Échec,Fallido,провалено,ล้มเหลว,실패,فشل,Non riuscito,Falhou
+QUESTSUBGET,领取任务,ACCEPT,クエスト受注,ANNEHMEN,Accepter,Aceptar,принять,รับงาน,임무 수락,قبول,Accetta,ACEITAR
+QUESTSUBINPROGRESS,进行中,IN PROGRESS,進行中,IN BEARBEITUNG,En cours,En progreso,в процессе,กำลังดำเนินการ,진행 중,قيد التنفيذ,In corso,Em Progresso
+QUESTSUBNEW,新任务,AVALIABLE,新しいクエスト,VERFÜGBAR,Nouvelle quête,Disponible,новое задание,มีใหม่,새 퀘스트,متاح,Disponibile,Disponível
+QUESTSUBNOTSTART,未开始,NOT STARTED,未開始,NOCH NICHT BEGONNEN,Non commencé,No empezado,не начато,ยังไม่เริ่ม,아직 시작되지 않음,لم يبدأ بعد,Non iniziato,Não Iniciado
+QUESTSUBSUBMIT,提交任务,SUBMIT,クエスト提出,ABGEBEN,Remettre,Entregar,представить,ส่ง,제출,تقديم,Presentare,Enviar
+QUESTSUBSUSPEND,终止任务,SUSPEND,クエスト中止,UNTERBRECHEN,Suspendre,Suspender,приостановить,ระงับ,일시 중단,تعليق,Interrompere,Suspender
+RAISED,增加了,HAS RAISED,増加しました,HAT ERHÖHT,Augmenté,Ha aumentado,увеличилось,เพิ่มขึ้น,증가했습니다,تم زيادته,È aumentato,Subiu
+SAVEAUTO,自动存档,AUTO SAVE,自動セーブ,AUTO SPEICHERN,Sauvegarde automatique,Guardado automático,автосохранение,บันทึกอัตโนมัติ,자동 저장,حفظ تلقائي,Salvataggio automatico,Salvar Automático
+SAVEEMPTY,无存档,EMPTY,セーブなし,LEER,VIDE,空,без сохранения,ว่างเปล่า,비어 있음,فارغ,SENZA SALVATAGGIO,VAZIO
+SAVELOAD,读取,LOAD,読み込み,LESEN,Lire,Cargar,загрузить,โหลด,로드,تحميل,Caricare,Carregar
+SAVESAVE,保存,SAVE,セーブ,SPREICHERN,Enregistrer,Guardar,сохранить,บันทึก,저장,حفظ,Salva,Salvar
+SCORE,分数,SCORE,スコア,PUNKTZAHL,Score,Puntuación,счет,คะแนน,점수,النقاط,Punteggio,Pontuação
+SHOPCHOOSEQUANTITY,请选择商品数量,PLEASE CHOOSE QUANTITY,数量を選択してください,BITTE MENGE AUSWÄHLEN,VEUILLEZ CHOISIR LA QUANTITÉ,POR FAVOR ELIGE LA CANTIDAD,пожалуйста, выберите количество,โปรดเลือกจำนวน,수량을 선택하십시오,الرجاء اختيار الكمية,SI PREGA DI SCEGLIERE LA QUANTITÀ,POR FAVOR, ESCOLHA A QUANTIDADE
+SHOPITEM,商品,ITEMS,アイテム,WAREN,Objets,Ítems,товары,ไอเทม,아이템,العناصر,Oggetti,Itens
+SHOPOUTOFSTOCK,售罄,OUT OF STOCK,在庫切れ,NIHT AUF LAGER,En rupture de stock,Sin stock,нет в наличии,สินค้าหมด,재고 없음,إنتهاء الإمداد,Esaurito,Fora de Estoque
+SHOPPRICE,价格,PRICE,価格,PREIS,Prix,Precio,цена,ราคา,가격,السعر,Prezzo,Preço
+SHOPPRICETOTAL,商品总价,TOTAL PRICE,合計価格,GESAMTPREIS,Prix total,Precio total,общая стоимость,ราคารวม,총 가격,السعر الإجمالي,Prezzo totale,Preço Total
+SHOPPURCHASE,购买,PURCHASE,購入,KAUFEN,Achat,Comprar,покупка,ซื้อ,구매,شراء,Acquisto,Compra
+SHOPQUANTITY,数量,QUANTITY,数量,MENGE,Quantité,Cantidad,количество,จำนวน,수량,الكمية,Quantità,Quantidade
+SHOPSELL,出售,SELL,販売,VERKAUF,Vendre,Vender,продажа,ขาย,판매,بيع,Vendere,Vender
+SHOPSELLPRICE,出售价格,SELL PRICE,販売価格,Verkaufspreis,Prix de vente,Precio de venta,Цена продажи,ราคาขาย,판매 가격,سعر البيع,Prezzo di vendita,Preço de venda
+SHOPSTOCK,库存,STOCK,インベントリー,Inventar,inventaire,inventario,инвентарь,สินค้า คง คลัง,목록,جرد,inventario,Preço de venda
+SILVER,银,SILVER,シルバー,SILBER,Argent,Plata,серебро,เงิน,은,فضة,Argento,Prata
+skill_passive_ad,附加伤害,Additional Damage,追加ダメージ,Zusätzlicher Schaden,Dégâts supplémentaires,Daño adicional,дополнительный урон,ความเสียหายเพิ่มเติม,추가 데미지,أذى إضافي,Danno Aggiuntivo,Dano Adicional
+skill_passive_af,命中补正,Accuracy Fix,命中補正,Genauigkeitskorrektur,Correction de précision,Corrección de precisión,коррекция точности,ความแม่นยำแก้ไข,정확도 수정,تصحيح الدقة,Correzione di Precisione,Correção de Precisão
+skill_passive_bt,背刺伤害,Backstab Damage,背後打撃ダメージ,Hinterhältiger Schaden,Dégâts de coup de grâce,Daño de emboscada,урон от засады,ความเสียหายจากการโจมตีท่าทางซ่อนกล,Sneak Attack Damage,أذى الغدر,Danno da Agguato,Dano de Ataque Surpresa
+skill_passive_cc,暴击几率,Critical Chance,クリティカルチャンス,Kritische Chance,Chance critique,Probabilidad de golpe crítico,шанс критического удара,โอกาสโจมตีโดยวิธีร้าย,치명타 확률,فرصة الضرب الحرجة,Probabilità di Colpo Critico,Chance Crítica
+skill_passive_cd,暴击伤害,Critical Damage,クリティカルダメージ,Kritischer Schaden,Dégâts critiques,Daño crítico,критический урон,ความเสียหายจากการโจมตีท่าทางอันตราย,치명타 데미지,ضرر الضربة الحرجة,Danno Critico,Dano Crítico
+skill_passive_cf,冷却补正,Cooldown fix,クールダウン補正,Abklingzeitkorrektur,Correction de temps de recharge,Corrección de tiempo de reutilización,коррекция времени восстановления,การแก้ไขเวลาหยุดพัก,쿨다운 수정,تصحيح وقت الانتعاش,Correzione del Tempo di Recupero,Correção de Tempo de Recarga
+skill_passive_dc,闪避修正,Dodge Fix,回避補正,Vermeidungskorrektur,Correction d'esquive,Corrección de esquive,коррекция уклонения,การแก้ไขการหลบหลีก,회피 수정,تصحيح التجنب,Correzione dell'Elusione,Correção de Esquiva
+skill_passive_dh,吸收生命,Drain Health,生命吸収,Lebensentzug,Drain de santé,Absorción de salud,поглощение здоровья,ดูดเลือดชีวิต,생명력 흡수,امتصاص الصحة,Assorbimento di Vita,Absorção de Vida
+skill_passive_di,伤害加成,Damage Increasing,ダメージ増加,Erhöhung des Schadens,Augmentation des dégâts,Aumento de daño,увеличение урона,เพิ่มความเสียหาย,데미지 증가,زيادة الضرر,Aumento del Danno,Aumento de Dano
+skill_passive_dr,掉落率,Drop Rate,ドロップ率,Drop-Rate,Taux de drop,Tasa de caída,шанс выпадения,อัตราการดรอป,드랍 확률,معدل الهبوط,Tasso di Caduta,Taxa de Queda
+skill_passive_ds,吸收体力,Drain Stamina,スタミナ吸収,Stamina-Entzug,Drain de stamina,Absorción de resistencia,поглощение выносливости,ดรายน์สแตมินา,스태미너 흡수,امتصاص القدرة,Assorbimento di Stamina,Absorção de Resistência
+skill_passive_fp,不屈,Fortitude,不屈,Widerstandskraft,Fortitude,Fortaleza,стойкость,ความแข็งแกร่ง,불굴,صلابة,Fortezza,Fortitude
+skill_passive_gr,一般抗性,General Resistant,一般耐性,Allgemeiner Widerstand,Résistant général,Resistencia general,общее сопротивление,ความต้านทานทั่วไป,일반 저항,مقاومة عامة,Resistenza Generale,Resistência Geral
+skill_passive_hr,生命恢复(秒/回合),Health Regenerate,体力再生(秒/回合),Gesundheitsregeneration pro Sekunde,Régénération de santé,Regeneración de salud,регенерация здоровья,การฟื้นคืนสุขภาพ,체력 재생(초/턴),استعادة الصحة,Recupero della Salute,Regeneração de Saúde
+skill_passive_mr,魔力恢复(秒/回合),Mana Regenerate,マナ再生(秒/回合),Mana-Regeneration pro Sekunde,Régénération de mana,Regeneración de maná,восстановление маны,การฟื้นคืนพลังงาน,마나 재생(초/턴),استعادة الطاقة,Recupero del Mana,Regeneração de Mana
+skill_passive_nr,异常状态抗性,Nerf Resistant,ステータス劣化耐性,Debuff-Resistenz,Résistant au débuff,Resistente al debuff,резист к дебаффу,ความต้านทานเอฟเฟคแย่ง,디버프 저항,مقاومة تأثير سلبي,Resistente al Debuff,Resistência ao Debuff
+skill_passive_rd,反射伤害,Damage Reflection,ダメージ反射,Schadensreflexion,Réflexion des dégâts,Reflejo de daño,отражение урона,การสะท้อนความเสียหาย,피해 반사,الانعكاس الضرر,Riflessione del Danno,Reflexão de Dano
+skill_passive_rs,重复打击,Repeat Strikes,連続打撃,Wiederholte Schläge,Attaques répétées,Golpes repetidos,повторяющиеся удары,การตีซ้ำ,반복 타격,ضربات متكررة,Colpi Ripetuti,Golpes Repetidos
+skill_passive_sr,体力恢复(秒/回合),Stamina Regenerate,スタミナ再生(秒/回合),Stamina-Regeneration pro Sekunde,Régénération de stamina,Regeneración de resistencia,восстановление выносливости,การฟื้นคืนสตามินา,체력 재생(초/턴),استعادة القدرة,Recupero della Stamina,Regeneração de Resistência
+SKILLACCURACY,命中率,ACCURACY,命中率,Genauigkeit,Précision,Precisión,точность,ความแม่นยำ,정확도,الدقة,Precisione,Precisão
+SKILLACTIVE,主动技能,ACTIVE,アクティブスキル,Aktive Fähigkeit,Compétence active,Habilidad activa,активное умение,ทักษะแอคทีฟ,능동 스킬,مهارة نشطة,Abilità Attiva,Habilidade Ativa
+SKILLAIR,空中技,AIR SKILL,エアースキル,Luftfertigkeit,Compétence aérienne,Habilidad aérea,навык в воздухе,ทักษะอากาศ,공중 스킬,مهارة الهواء,Abilità Aerea,Habilidade Aérea
+SKILLALL,技能一览,ALL SKILLS,すべてのスキル,ALLE FÄHIGKEITEN,Toutes les compétences,Todas las habilidades,все умения,ทักษะทั้งหมด,모든 스킬,جميع المهارات,Tutte le Abilità,Todas as Habilidades
+SKILLCD,冷却时间,COOL TIME,クールタイム,Abklingzeit,Temps de recharge,Tiempo de enfriamiento,время восстановления,เวลาเย็น,쿨 타임,وقت التبريد,Tempo di Recupero,Tempo de Resfriamento
+SKILLCOST,技能消耗,SKILL COST,スキルコスト,Fähigkeitskosten,Coût de compétence,Costo de habilidad,стоимость умения,ค่าทักษะ,스킬 비용,تكلفة المهارة,Costo della Abilità,Custo da Habilidade
+SKILLEQUIP,选择技能,SELECT SKILL,スキルを選択,SKILL AUSWÄHLEN,Sélectionner une compétence,Seleccionar habilidad,выбор умения,เลือกทักษะ,스킬 선택,اختيار المهارة,Seleziona Abilità,Selecionar Habilidade
+SKILLHIT,连击数,HITS,ヒット数,Treffer,Nombre de coups,Impactos,попаданий,จำนวนการโจมตี,타격 수,عدد الضربات,Colpi,Número de acertos
+SKILLLEARN,学习技能,LEARN SKILL,スキルを学ぶ,FERNERE SKILL,Apprendre une compétence,Aprender habilidad,изучение умения,เรียนรู้ทักษะ,스킬 배우기,تعلم مهارة,Apprendi una Abilità,Aprenda uma Habilidade
+SKILLLEARNED,学会了,LEARNED,習得済み,GELEHRT,Appris,Aprendido,изучено,เรียนรู้แล้ว,배웠다,تعلمت,Imparato,Aprendido
+SKILLLEVEL,技能等级,SKILL LEVEL,スキルレベル,Fähigkeitsstufe,Niveau de compétence,Nivel de habilidad,уровень умения,ระดับทักษะ,스킬 레벨,مستوى المهارة,Livello della Abilità,Nível da Habilidade
+SKILLMAGICAL,魔法技能,MAGICAL SKILL,魔法スキル,Magische Fähigkeit,Compétence magique,Habilidad mágica,магическое умение,ทักษะเวทมนตร์,마법 스킬,مهارة سحرية,Abilità Magica,Habilidade Mágica
+SKILLMAIN,返回技能菜单,RETURN TO SKILLS,スキルメインに戻る,ZURÜCK ZU DEN FÄHIGKEITEN,RETOUR AUX COMPÉTENCES,REGRESAR A HABILIDADES,ВЕРНУТЬСЯ К УМЕНИЯМ,กลับสู่ทักษะ,스킬로 돌아가기,العودة إلى المهارات,RITORNA ALLE ABILITÀ,VOLTAR PARA HABILIDADES
+SKILLMULTI,群体攻击,MULTIPLE,複数,MEHRERE,Plusieurs,Múltiple,несколько,หลาย,여러 개,متعددة,Multiplo,Múltiplo
+SKILLNOCOST,无消耗,NO COST,コストなし,KOSTENLOS,Pas de coût,Sin costo,без затрат,ไม่มีค่าใช้จ่าย,비용 없음,بدون تكلفة,Nessun costo,Sem custo
+SKILLNOLEVEL,等级不足,LEVEL NOT REACH,レベル不足,LEVEL NICHT ERREICHT,Niveau non atteint,Nivel no alcanzado,не достигнут уровень,ระดับไม่ถึง,레벨 부족,المستوى غير متاح,Livello Non Raggiunto,Nível Não Alcançado
+SKILLNORMALSKILL,一般技能,NORMAL SKILL,通常スキル,Normalfähigkeit,Compétence normale,Habilidad normal,обычное умение,ทักษะปกติ,일반 스킬,مهارة عادية,Abilità Normale,Habilidade Normal
+SKILLNOSKILL,无技能,NO SKILL,スキルなし,KEINE FÄHIGKEIT,Aucune compétence,Sin habilidad,нет умения,ไม่มีทักษะ,스킬 없음,لا توجد مهارة,Senza Abilità,Sem Habilidade
+SKILLNOSP,技能点不足,NOT ENOUGH SKILL POINTS,スキルポイント不足,NICHT GENÜGEND FÄHIGKEITSPUNKTE,Points de compétence insuffisants,Puntos de habilidad insuficientes,недостаточно очков умения,จำนวนคะแนนทักษะไม่เพียงพอ,스킬 포인트 부족,لا يكفي نقاط المهارة,Punti Abilità Insufficienti,Pontos de Habilidade Insuficientes
+SKILLNOTSET,未设置,NOT SET,未設定,NICHT FESTGELEGT,Non défini,No configurado,не установлено,ไม่ได้ตั้งค่า,설정 안 됨,لم يتم التعيين,Bloccato,Configuração não definida
+SKILLNOUSE,无法使用,UNAVALIABLE,使用不可,UNMÖGLICH ZU VERWENDEN,Indisponible,No disponible,недоступен,ไม่สามารถใช้ได้,사용 불가능,غير متاح,Non disponibile,Indisponível
+SKILLPASSIVE,被动技能,PASSIVE,パッシブスキル,Passive Fähigkeit,Compétence passive,Habilidad pasiva,пассивное умение,ทักษะแบบไม่แสดงออก,패시브 스킬,مهارة سلبية,Abilità Passiva,Habilidade Passiva
+SKILLPHYSICAL,物理技能,PHYSICAL SKILL,物理スキル,Physische Fähigkeit,Compétence physique,Habilidad física,физическое умение,ทักษะทางกายภาพ,물리 스킬,مهارة فيزيائية,Abilità Fisica,Habilidade Física
+SKILLPOWER,技能威力,POWER,スキル威力,Stärke,Force,Potencia,сила,พลัง,파워,القوة,Potenza,Potência
+SKILLRANGE,技能范围,RANGE,スキル範囲,Bereich,Portée,Rango,диапазон,ระยะทาง,범위,نطاق,Intervallo,Alcance
+SKILLRBA,技能 RB+A,SKILL RB+A,スキルRB+A,SKILL RB+A,SKILL RB+A,SKILL RB+A,SKILL RB+A,SKILL RB+A,SKILL RB+A,SKILL RB+A,SKILL RB+A,SKILL RB+A,SKILL RB+A,SKILL RB+A
+SKILLRBB,技能 RB+B,SKILL RB+B,スキルRB+B,SKILL RB+B,SKILL RB+B,SKILL RB+B,SKILL RB+B,SKILL RB+B,SKILL RB+B,SKILL RB+B,SKILL RB+B,SKILL RB+B,SKILL RB+B,SKILL RB+B
+SKILLRBX,技能 RB+X,SKILL RB+X,スキルRB+X,SKILL RB+X,SKILL RB+X,SKILL RB+X,SKILL RB+X,SKILL RB+X,SKILL RB+X,SKILL RB+X,SKILL RB+X,SKILL RB+X,SKILL RB+X,SKILL RB+X
+SKILLRBY,技能 RB+Y,SKILL RB+Y,スキルRB+Y,SKILL RB+Y,SKILL RB+Y,SKILL RB+Y,SKILL RB+Y,SKILL RB+Y,SKILL RB+Y,SKILL RB+Y,SKILL RB+Y,SKILL RB+Y,SKILL RB+Y,SKILL RB+Y
+SKILLSP,所需技能点,SKILL POINTS REQUIRES,必要なスキルポイント,ERFORDERLICHE FÄHIGKEITSPUNKTE,Points de compétence requis,Puntos de habilidad necesarios,требуется очков умения,จำเป็นต้องใช้คะแนนทักษะ,필요한 스킬 포인트,نقاط المهارة المطلوبة,Punti Abilità Richiesti,Pontos de Habilidade Necessários
+SKILLTRUEDAMAGE,真实伤害技能,TRUE DAMAGE,真ダメージ,WAHRER SCHADEN,Dégâts réels,Daño real,истинный урон,ความเสียหายแท้จริง,진짜 데미지,ضرر حقيقي,Danno Vero,Dano Verdadeiro
+SKILLUNEQUIP,解除技能,UNSELECT SKILL,スキル解除,SKILL ABBRECHEN,Désélectionner la compétence,Deseleccionar habilidad,снять выбор с умения,ยกเลิกการเลือกทักษะ,스킬 선택 해제,إلغاء تحديد المهارة,Annulla selezione,Cancelar Seleção
+SKILLUSE,使用技能,USE SKILL,スキル使用,VERWENDE FÄHIGKEIT,Utiliser la compétence,Usar habilidad,использовать умение,ใช้ทักษะ,스킬 사용,استخدام المهارة,Usa Abilità,Usar Habilidade
+SP,必杀技,ULTIMATE,アルティメット,ULTIMATE,Ultime,Definitivo,Ультиматум,ความสำคัญสูงสุด,알티메이트,التميت,Finale,Final
+SPMAX,最大必杀技,MAXIMUM ULTIMATE,アルティメット最大,Maximale Spezialattacke,Coup spécial maximum,Movimiento especial máximo,Максимальный ультиматум,ความสำคัญสูงสุดสุด,알티메이트 최대,التميت الأقصى,Massimo Finale,Máximo Final
+STAMINA,体力,STAMINA,スタミナ,STAMINA,Endurance,Resistencia,выносливость,สตามิน่า,스태미너,القدرة على التحمل,Stamina,Estamina
+STAMINAMAX,最大体力,MAXIMUM STAMINA,最大スタミナ,MAXIMALE AUSDAUER,Endurance maximale,Máxima resistencia,максимальная выносливость,สตามิน่าสูงสุด,최대 스태미너,أقصى قدرة على التحمل,Massima Resistenza,Máxima Estamina
+STRINGACHIEVEMENTGRADE,成就级别,GRADE,実績のランク,GRAD,Grade,GRADO,степень,เกรด,등급,درجة,Grado,Graduação
+STRINGALLENEMY,全部敌人,ALL ENEMIES,すべての敵,ALLE GEGNER,Tous les ennemis,Todos los enemigos,все враги,ศัตรูทั้งหมด,모든 적,جميع الأعداء,Tutti i nemici,Todos os Inimigos
+STRINGALLTEAM,全体,ALL,全員,ALLE,Membres de l'équipe,Equipo completo,все,ทีมทั้งหมด,전체 팀,جميع الفرق,Team completo,Todos os Membros
+STRINGARMOR,护甲,ARMOR,防具,RAÜSTUNG,Armure,Armadura,броня,เกราะ,갑옷,درع,Armatura,Armadura
+STRINGATTACK,攻击,ATTACK,攻撃,ANGRIFF,Attaque,Ataque,атака,โจมตี,공격,هجوم,Attacco,Ataque
+STRINGAUTO,自动,AUTO,オート,AUTOMATISCH,Automatique,Automático,авто,อัตโนมัติ,자동,تلقائي,Automatico,Automático
+STRINGCDING,冷却中,COOLDOWN,クールダウン中,ABKÜHLUNG,En refroidissement,En enfriamiento,охлаждение,การเย็นลง,쿨다운 중,فترة الانتظار,Cooling down,Rrefrigeração
+STRINGCLOCK,时间,CLOCK,時計,UR,Zegar,Reloj,Часы,นาฬิกา,시계,الساعة,Orologio,Relógio
+STRINGCLOSE,关闭,CLOSE,閉じる,SCHLIEßEN,Fermer,Cerrar,закрыть,ปิด,닫기,اغلق,Chiudi,Fechar
+STRINGCOMBO,连击,COMBO,コンボ,KOMBINATION,Combo,Combo,комбо,คอมโบ,콤보,كومبو,Combo,Combo
+STRINGCONFIRM,确认,CONFIRM,確認, BESTÄTIGEN,Confirmer,Confirmar,подтвердить,ยืนยัน,확인,تأكيد,Conferma,Confirmar
+STRINGCURE,治愈,CURE,治療,HEILUNG,Guérison,Cura,лечение,รักษา,치료,علاج,Cura,Cura
+STRINGCUREBLEED,流血解除,BLEED RECOVERED,出血回復,Blutung wiederhergestellt,Récupération du saignement,Sangrado recuperado,кровотечение восстановлено,การฟื้นคืนการเลือด,피 흘림 회복됨,استعادة النزيف,Sanguinamento recuperato,Sangramento Recuperado
+STRINGCUREBLIND,致盲解除,BLIND RECOVERED,盲目回復,Blindheit wiederhergestellt,Récupération de la cécité,Ceguera recuperada,восстановление зрения,การฟื้นคืนการตาบอด,실명 복구됨,استعادة العمى,Cecità recuperata,Cegueira Recuperada
+STRINGCUREPOSION,中毒解除,POISON RECOVERED,毒回復,VERGIFTUNG WIEDERHERGESTELLT,Reprise du poison,Veneno recuperado,восстановление яда,การฟื้นคืนสารพิษ,독 회복됨,استعادة السم,Curare avvelenamento,Veneno Recuperado
+STRINGCURESLOW,减速解除,SLOW RECOVERED,スロー回復,LANGSAMKEIT WIEDERHERGESTELLT,Récupération de la lenteur,Lentitud recuperada,восстановление замедления,การฟื้นคืนความช้า,슬로우 회복됨,استعادة التباطؤ,Lentezza recuperata,Lentidão Recuperada
+STRINGCURESTUN,眩晕解除,STUN RECOVERED,スタン回復,STUN WIEDERHERGESTELLT,Récupération de l'étourdissement,Aturdimiento recuperado,восстановление оглушения,การฟื้นคืนการช็อก,스턴 회복됨,استعادة الصدمة,Stordimento recuperato,Tontura Recuperada
+STRINGDAY,天,DAY,日,Himmel,ciel,cielo,небо,ฟ้า,하늘,سماء,cielo,céu
+STRINGELEFTTEAM,离开了队伍,HAS LEFT TEAM,チームを離れました,IST AUS DEM TEAM AUSGETRETEN,A quitté l'équipe,Ha abandonado el equipo,покинул команду,ออกจากทีม,팀을 나갔습니다,غادر الفريق,Ha lasciato il team,Saiu do Time
+STRINGENDOFTURN,结束回合,END OF TURN,ターン終了,ENDE DER RUNDE,Fin du tour,Fin de turno,конец хода,สิ้นสุดตา,턴 종료,نهاية الدور,Fine del turno,Fim do turno
+STRINGENDURE,霸体,ENDURE,忍耐,ERTRAGEN,Endurer,Soportar,терпеть,ทน,견딜,احتمال,Sopportare,Suportar
+STRINGENTER,进入,ENTER,入る,EINTRETEN,Entrer,Entrar,вход,เข้า,들어가기,الدخول,Entrare,Entrar
+STRINGEQUIPPED,装备中,EQUIPPED,装備中,AUSGERÜSTET,Équipé,Equipado,вооружен,ที่ติดตั้งอยู่,장비 중,مجهز,Equipaggiato,Equipado
+STRINGESCAPE,逃跑,ESCAPE,逃げる,ENTKOMMEN,S'échapper,Escapar,сбежать,หนี,달아나기,الهروب,Fuga,Escapar
+STRINGESCAPED,一行人逃离了战斗,ESCAPED FROM FIGHT,戦闘から逃げ出した,AUS DEM KAMPF ENTKOMMEN,Échappé au combat,Escapó de la pelea,сбежал из боя,หนีออกจากการสู้รบ,전투에서 도망쳤습니다,هرب من المعركة,Fuggito dalla lotta,Escapou da luta
+STRINGESCAPEFAIL,逃跑失败,FAILED TO ESCAPE,逃げることができませんでした,FLUCHT GESCHEITERT,N'a pas réussi à s'échapper,Falló al escapar,не удалось сбежать,ล้มเหลวในการหนี,도망에 실패했습니다,فشل في الهروب,Fallito nel tentativo di fuga,Falha ao escapar
+STRINGEVENT,事件,EVENT,イベント,EREIGNIS,Événement,Evento,событие,เหตุการณ์,이벤트,حدث,Evento,Evento
+STRINGFASTTRAVEL,快速移动到选定场景,FAST TRAVEL TO SELECTED MAP,選択したマップへの高速移動,ZUM AUSGEWÄHLTEN KARTE SCHNELL REISEN,Voyage rapide vers la carte sélectionnée,Viaje rápido al mapa seleccionado,быстрое перемещение к выбранной карте,การเดินทางด่วนไปยังแผนที่ที่เลือก,선택한 지도로 빠른 이동,الانتقال السريع إلى الخريطة المحددة,Via rapida per la mappa selezionata,Viagem rápida para o mapa selecionado
+STRINGFLOAT,浮空,FLOAT,フロート, SCHWEBEN,FLUIDE,FLUJO,плавать,ลอย,플로트,تعويم,FLUTUAR,FLUJAR
+STRINGFORTITUDE,不屈,FORTITUDE,不屈の精神,STANDHAFTIGKEIT,Force intérieure,Fortaleza,стойкость,ความตั้งใจแข็งแกร่ง,불굴의 의지,القوة الداخلية,Forza d'animo,Força Interior
+STRINGGETEXP,获得经验值, GOT EXP,経験値を獲得しました,ERFAHRUNGSPUNKTE BEKOMMEN,A obtenu de l'expérience,Obtuvo experiencia,получено опыта,ได้รับประสบการณ์,경험치를 얻었습니다,حصل على الخبرة,Ha ottenuto esperienza,Obteve EXP
+STRINGGETMONEY,获得金钱, RECEIVED MONEY,お金を受け取りました,ERHALTENES GELD,Argent reçu,Dinero recibido,получены деньги,ได้รับเงิน,돈을 받았습니다,استلم المال,Denaro ricevuto,Dinheiro recebido
+STRINGGUARD,防御,GUARD,ガード,VERTEIDIGUNG,Garde,Proteger,защита,ป้องกัน,보호,الحرس,Guardia,Guarda
+STRINGHOUR,小时,HOUR,時間,STUNDE,Heure,Hora,час,ชั่วโมง,시간,ساعة,Ora,Hora
+STRINGITEM,道具,ITEMS,アイテム,ITEMS,Objets,Objetos,предметы,ไอเท็ม,아이템,العناصر,Oggetti,Itens
+STRINGKNOCKOFF,击飞,KNOCK OFF,ノックオフ,ABKNOCKEN,ÉJECTER,DESACTIVAR,снимать,นำออก,떨어 뜨리기,إخراج,Elimina,Remover
+STRINGLEVELUP,等级提升到,HAS REACHED LEVEL,レベルに達しました,HAT DAS LEVEL ERREICHT,A atteint le niveau,Ha alcanzado el nivel,достиг уровня,เสถียรภาพระดับ,레벨에 도달했습니다,تم الوصول إلى المستوى,Ha raggiunto il livello,Alcançou o nível
+STRINGMISS,MISS,MISS,ミス,FEHLER,Manqué,Fallo,промах,พลาด,빗나감,فشل,Errore,Perda
+STRINGMOVE,移动,MOVE,移動,UMZIEHEN,Déplacer,Mover,перемещение,เคลื่อนย้าย,이동,تحرك,Movimento,Movimento
+STRINGNOITEM,无道具,NO ITEM,アイテムなし,KEIN GEGENSTAND,Aucun objet,Sin objeto,нет предметов,ไม่มีไอเท็ม,아이템 없음,لا يوجد عنصر,Senza oggetti,Sem item
+STRINGNOSKILL,无技能,NO SKILL,スキルなし,KEINE FÄHIGKEIT,Aucune compétence,Sin habilidades,нет навыков,ไม่มีทักษะ,기술 없음,لا توجد مهارة,Senza abilità,Sem habilidade
+STRINGNOTARGET,无目标,NO TARGET,ターゲットなし,KEIN ZIEL,Pas de cible,Sin objetivo,нет цели,ไม่มีเป้าหมาย,대상 없음,لا يوجد هدف,Senza bersaglio,Sem alvo
+STRINGOCLOCK,点,O'CLOCK,時, UHR,HEURE,Hora,час,นาฬิกา,시,ساعة,O'CLOCK,O'CLOCK
+STRINGOPEN,打开,OPEN,開く,ÖFFNEN,Ouvrir,Abrir,открывать,เปิด,열기,فتح,Aprire,Abrir
+STRINGQUEST,任务,QUEST,クエスト,AUFGABE,Quête,Búsqueda,задание,เควส,퀘스트,مهمة,Missione,Missão
+STRINGREAD,查看,READ,読む,LESEN,Lire,Leer,читать,อ่าน,읽기,قراءة,Lettura,Ler
+STRINGREST,休息,REST,休む,RUHE,Repos,Descanso,отдых,พัก,휴식,استراحة,Riposo,Descanso
+STRINGRMULTI,群体,MULTI-,マルチ-,Kolonie,Kolonie,colonia,мульти-,หลาย-,다중-,متعدد-,Multiplo-,Múltiplo-
+STRINGSAVE,保存,SAVE,保存,SPAREN,Enregistrer,Guardar,сохранить,บันทึก,저장,حفظ,Salva,Salvar
+STRINGSAVEDISABLED,当前无法存档,CANNOT SAVE AT THIS MOMENT,現在セーブできません,IM MOMENT NICHT SPEICHERN,Impossible de sauvegarder,NO SE PUEDE GUARDAR EN ESTE MOMENTO,нельзя сохранить в данный момент,ไม่สามารถบันทึกในขณะนี้,지금은 저장할 수 없습니다,لا يمكن الحفظ في هذه اللحظة,Impossibile salvare in questo momento,Não é possível salvar neste momento
+STRINGSELECT,选择,SELECT,選択,auswählen,Sélectionner,Seleccionar,выбрать,เลือก,선택,اختيار,Seleziona,Selecionar
+STRINGSKILL,技能,SKILLS,スキル, FÄHIGKEIT,Compétences,Habilidades,навыки,ทักษะ,기술,مهارات,Abilità,Habilidades
+STRINGSTANDBY,待命,STAND BY,待機,IN BEREITSCHAFT,Mise en veille,En espera,готовность,พร้อม,대기,جاهز,In attesa,Em espera
+STRINGSWITCHOFF,关闭开关,SWITCH OFF,スイッチを切る,AUSSCHALTEN,Éteindre,Apagar,выключить,ปิด,끄기,أطفئ,Spegni,Desligar
+STRINGSWITCHON,打开开关,SWITCH ON,スイッチを入れる,EINSCHALTEN,Allumer,Encender,включить,เปิด,켜기,تشغيل,Accendi,ligar
+STRINGTALK,对话,TALK,話す,SPRECHEN,Parler,Hablar,говорить,พูด,대화,تحدث,Parlare,Falar
+STRINGTIMEDEADLINE,截止时间,DEADLINE,期限,TERMIN,Date limite,Fecha límite,крайний срок,กำหนดเวลา,마감일,الموعد النهائي,Scadenza,Prazo limite
+STRINGTIMELEFT,剩余时间,TIME LEFT,残り時間,VERBLEIBENDE ZEIT,Temps restant,Tiempo restante,осталось времени,เวลาที่เหลือ,남은 시간,الوقت المتبقي,Tempo rimasto,Tempo restante
+STRINGTIMELIMIT,时间限定,TIME LIMIT,制限時間,ZEITLIMIT,Limite de temps,Límite de tiempo,ограничение по времени,จำกัดเวลา,시간 제한,الحد الزمني,Limite di tempo,Limite de tempo
+STRINGTODAY,今天,TODAY,今日,HEUTE,Aujourd'hui,Hoy,сегодня,วันนี้,오늘,اليوم,Oggi,Hoje
+STRINGTRADE,交易,TRADE,取引,Handel,Échange,Comercio,сделка,การค้า,교역,تجارة,Commercio,Comércio
+TIME,游玩时间,Game Time,ゲーム時間,Spieldauer,Temps de jeu,Tiempo de juego,игровое время,เวลาเล่นเกม,게임 시간,وقت اللعب,Tempo di gioco,Tempo de jogo
+VA_NAME0,教程变量,Tutorial Variable,チュートリアル変数,Tutorialvariable,Variable de tutoriel,Variable de tutorial,Переменная учебного материала,ตัวแปรบทแนะนำ,튜토리얼 변수,متغير البرنامج التعليمي,Variable di tutorial,Variável de Tutorial
+VA_NAME1,变量1,Variable 1,変数1,Variable 1,Variable 1,Variable 1,Переменная 1,ตัวแปร 1,변수 1,متغير 1,Variable 1,Variável 1
+VA_NAME2,变量2,Variable 2,変数2,Variable 2,Variable 2,Variable 2,Переменная 2,ตัวแปร 2,변수 2,متغير 2,Variable 2,Variável 2
+VA_NAME3,变量3,Variable 3,変数3,Variable 3,Variable 3,Variable 3,Переменная 3,ตัวแปร 3,변수 3,متغير 3,Variable 3,Variável 3
+VA_NAME4,变量4,Variable 4,変数4,Variable 4,Variable 4,Variable 4,Переменная 4,ตัวแปร 4,변수 4,متغير 4,Variable 4,Variável 4
+VA_NAME5,变量5,Variable 5,変数5,Variable 5,Variable 5,Variable 5,Переменная 5,ตัวแปร 5,변수 5,متغير 5,Variable 5,Variável 5
+VA_NAME6,变量6,Variable 6,変数6,Variable 6,Variable 6,Variable 6,Переменная 6,ตัวแปร 6,변수 6,متغير 6,Variable 6,Variável 6
+VA_NAME7,变量7,Variable 7,変数7,Variable 7,Variable 7,Variable 7,Переменная 7,ตัวแปร 7,변수 7,متغير 7,Variable 7,Variável 7
+VA_NAME8,变量8,Variable 8,変数8,Variable 8,Variable 8,Variable 8,Переменная 8,ตัวแปร 8,변수 8,متغير 8,Variable 8,Variável 8
+VA_NAME9,变量9,Variable 9,変数9,Variable 9,Variable 9,Variable 9,Переменная 9,ตัวแปร 9,변수 9,متغير 9,Variable 9,Variável 9
+VA_PROP0,自定义属性0,Custom Property 0,カスタムプロパティ0,Benutzerdefinierte Eigenschaft 0,Propriété personnalisée 0,Propiedad Personalizada 0,Пользовательское свойство 0,คุณสมบัติแบบกำหนดเอง 0,사용자 정의 속성 0,خاصية مخصصة 0,Proprietà Personalizzata 0,Propriedade Personalizada 0
+VA_PROP1,自定义属性1,Custom Property 1,カスタムプロパティ1,Benutzerdefinierte Eigenschaft 1,Propriété personnalisée 1,Propiedad Personalizada 1,Пользовательское свойство 1,คุณสมบัติแบบกำหนดเอง 1,사용자 정의 속성 1,خاصية مخصصة 1,Proprietà Personalizzata 1,Propriedade Personalizada 1
+VA_PROP2,自定义属性2,Property 2,プロパティ2,Eigenschaft 2,Propriété 2,Propiedad 2,Свойство 2,คุณสมบัติ 2,속성 2,خاصية 2,Proprietà 2,Propriedade 2
+VA_PROP3,自定义属性3,Property 3,プロパティ3,Eigenschaft 3,Propriété 3,Propiedad 3,Свойство 3,คุณสมบัติ 3,속성 3,خاصية 3,Proprietà 3,Propriedade 3
+VA_PROP4,自定义属性4,Property 4,プロパティ4,Eigenschaft 4,Propriété 4,Propiedad 4,Свойство 4,คุณสมบัติ 4,속성 4,خاصية 4,Proprietà 4,Propriedade 4
+VA_PROP5,自定义属性5,Property 5,プロパティ5,Eigenschaft 5,Propriété 5,Propiedad 5,Свойство 5,คุณสมบัติ 5,속성 5,خاصية 5,Proprietà 5,Propriedade 5
+VA_PROP6,自定义属性6,Property 6,プロパティ6,Eigenschaft 6,Propriété 6,Propiedad 6,Свойство 6,คุณสมบัติ 6,속성 6,خاصية 6,Proprietà 6,Propriedade 6
+VA_PROP7,自定义属性7,Property 7,プロパティ7,Eigenschaft 7,Propriété 7,Propiedad 7,Свойство 7,คุณสมบัติ 7,속성 7,خاصية 7,Proprietà 7,Propriedade 7
+VA_PROP8,自定义属性8,Custom Property 8,カスタムプロパティ8,Benutzerdefinierte Eigenschaft 8,Propriété personnalisée 8,Propiedad Personalizada 8,Пользовательское свойство 8,คุณสมบัติแบบกำหนดเอง 8,사용자 정의 속성 8,خاصية مخصصة 8,Proprietà Personalizzata 8,Propriedade Personalizada 8
+VA_PROP9,自定义属性9,Custom Property 9,カスタムプロパティ9,Benutzerdefinierte Eigenschaft 9,Propriété personnalisée 9,Propiedad Personalizada 9,Пользовательское свойство 9,คุณสมบัติแบบกำหนดเอง 9,사용자 정의 속성 9,خاصية مخصصة 9,Proprietà Personalizzata 9,Propriedade Personalizada 9
+VARIABLE,变量,Variable,変数,Variable,Variable,Variable,Переменная,ตัวแปร,변수,متغير,Variable,Variável
+WEIGHT,重量,Weight,重さ,Gewicht,Poids,Peso,Вес,น้ำหนัก,무게,وزن,Peso,Peso
+BUTTONHIT,点击,Click,クリック,Klicken,Clique,Clic,Нажать,คลิก,클릭,انقر,Clicca,Clique
+MESSAGESTART,开始,Start,开始,Start,Démarrer,Iniciar,Начать,เริ่ม,시작,بدء,Inizia,Iniciar
+STRINGINPROGRESS,进行中,IN PROGRESS,進行中,In Bearbeitung,En cours,En progreso,В процессе,กำลังดำเนินการ,진행 중,قيد التقدم,In corso,Em andamento
+MINIGAMEROCK,石头,ROCK,石,Fels,Roche,Piedra,Камень,หิน,바위,حجر,Roccia,Pedra
+MINIGAMESCISSORS,剪刀,SCISSORS,ハサミ,Schere,Ciseaux,Tijeras,Ножницы,กรรไกร,가위,مقص,Forbici,Tesoura
+MINIGAMEPAPER,布,PAPER,布,Papier,Papier,Papel,Бумага,กระดาษ,종이,ورقة,Carta,Papel
+MESSAGEWIN,胜利,VICTORY,勝利,Sieg,Victoire,Victoria,Победа,ชัยชนะ,승리,النصر,Vittoria,Vitória
+MESSAGELOSE,失败,FAILURE,失敗,Scheitern,Échec,Fracaso,Поражение,ความล้มเหลว,실패,فشل,Fallimento,Fracasso
+MINIGAMEGOL,请选择您要猜的结果,Please select the result you want to guess,予想する結果を選択してください,Bitte wählen Sie das Ergebnis aus das Sie erraten möchten,Veuillez sélectionner le résultat que vous souhaitez deviner,
+Por favor seleccione el resultado que desea adivinar,Пожалуйста, выберите результат, который вы хотите угадать,โปรดเลือกผลลัพธ์ที่คุณต้องการทาย,원하시는 결과를 선택하세요,يرجى تحديد النتيجة التي ترغب في تخمينها,Si prega di selezionare il risultato che si desidera indovinare,Por favor selecione o resultado que você deseja adivinhar
+MINIGAMEGREAT,大,BIG,大きい,groß,grand,grande,большой,ใหญ่,큰,كبير,grande,grande
+MINIGAMESMALL,小,SMALL,小さい,klein,petit,pequeño,маленький,เล็ก,작은,صغير,piccolo,pequeno
+MINIGAMEMYRESULT,您的结果,YOUR RESULT,あなたの結果,Ihr Ergebnis,Votre résultat,Su resultado,Ваш результат,ผลลัพธ์ของคุณ,당신의 결과,نتيجتك,Il tuo risultato,Seu resultado
+MINIGAMEOTHERRESULT,对方结果,OPPONENT'S RESULT,相手の結果,Ergebnis des Gegners,Résultat de l'adversaire,Resultado del oponente,Результат противника,ผลลัพธ์ของคู่ต่อสู้,상대방의 결과,نتيجة الخصم,Risultato dell'avversario,Resultado do oponente
+MINIGAMEWIN,您胜出了,YOU WON,あなたが勝ちました,Du hast gewonnen,Vous avez gagné,Has ganado,Вы победили,คุณชนะแล้ว,당신이 이겼어요,لقد فزت,Hai vinto,Você venceu
+MINIGAMELOSE,您输了,YOU LOST,あなたが負けました,Du hast verloren,Vous avez perdu,Has perdido,Вы проиграли,คุณแพ้แล้ว,당신이 졌어요,خسرت,Hai perso,Você perdeu
+MINIGAMEDRAW,平局,DRAW,引き分けです,Unentschieden,Match nul,Empate,Ничья,เสมอกัน,무승부입니다,تعادل,Hai pareggiato,Empate
+MESSAGESTOP,停止,STOP,停止,Anhalten,Arrêter,Detener,Остановить,หยุด,정지,توقف,Fermare,Parar
+STRING_RECOVER,恢复, Regenerate,再生, Regenerieren, Régénérer, Regenerar, Регенерировать,สร้างใหม่,재생성하다, إعادة توليد, Rigenerare, Regenerar
+MENURECEIVED,获得,Received,受け取った,Empfangen,Reçu,Recibido,Получено,ได้รับ,받음,تلقى,Ricevuto,Recebido
+MENULOST,失去,Lost,失う,Verloren,Perdu,Perdido,Потерянный,สูญหาย,잃다,فقد,Perso,Perdido
